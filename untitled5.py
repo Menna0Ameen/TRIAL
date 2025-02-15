@@ -31,7 +31,7 @@ else:
     st.stop()
 
 # ✅ Use a smaller, lightweight model
-model_name = "facebook/blenderbot-400M-distill"  # ✅ Optimized for Streamlit Cloud
+model_name = "microsoft/DialoGPT-small"  # ✅ Optimized for Streamlit Cloud
 
 # ✅ Load Model via Hugging Face API instead of downloading
 chatbot_pipeline = pipeline("text-generation", model=model_name, use_auth_token=HUGGINGFACE_API_KEY)
