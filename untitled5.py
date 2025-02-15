@@ -9,7 +9,7 @@ from langchain.llms import HuggingFacePipeline  # Import HuggingFacePipeline
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline  # Import pipeline function
 
 # ✅ Load Model for Conversational AI
-model_name = "mistralai/Mistral-7B-Instruct-v0.1"
+model_name = "microsoft/DialoGPT-small"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(model_name)
 
