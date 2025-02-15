@@ -8,6 +8,18 @@ from langchain import PromptTemplate, LLMChain # Import PromptTemplate and LLMCh
 from langchain.llms import HuggingFacePipeline # Import HuggingFacePipeline
 from transformers import pipeline # Import the pipeline function
 
+import os
+import subprocess
+
+# Ensure required libraries are installed
+required_packages = ["transformers"]
+
+for package in required_packages:
+    try:
+        __import__(package)
+    except ImportError:
+        subprocess.call(["pip", "install", package])
+
 # ✅ Streamlit App Title
 st.title("🛒 AI-Powered E-Commerce Chatbot (Free Version)")
 
