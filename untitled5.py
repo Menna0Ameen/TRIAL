@@ -26,7 +26,7 @@ json_path = "product_catalog.json"
 df_catalog = pd.read_json(json_path)  # FIXED: Removed quotes
 
 # ✅ Streamlit App Title
-st.title("🛒 AI-Powered E-Commerce Chatbot (Free Version)")
+st.title("🛒 AI AI-Powered E-Commerce Chatbot (Free Version)")
 
 # ✅ Check Hugging Face API Key (Set Fallback)
 HUGGINGFACE_API_KEY = st.secrets.get("HUGGINGFACE_API_KEY", "your_fallback_api_key")
