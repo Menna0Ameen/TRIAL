@@ -1,0 +1,8002 @@
+[
+    {
+        "id": 1,
+        "name": "Product 1",
+        "price": 1596.64,
+        "category": "Furniture",
+        "stock": 86,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 2,
+        "name": "Product 2",
+        "price": 726.34,
+        "category": "Stationery",
+        "stock": 167,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 3,
+        "name": "Product 3",
+        "price": 31.08,
+        "category": "Clothing",
+        "stock": 200,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 4,
+        "name": "Product 4",
+        "price": 519.92,
+        "category": "Home Appliances",
+        "stock": 87,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "price": 997.94,
+        "category": "Furniture",
+        "stock": 87,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 6,
+        "name": "Product 6",
+        "price": 1799.71,
+        "category": "Accessories",
+        "stock": 187,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 7,
+        "name": "Product 7",
+        "price": 1420.45,
+        "category": "Accessories",
+        "stock": 164,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 8,
+        "name": "Product 8",
+        "price": 1023.95,
+        "category": "Accessories",
+        "stock": 162,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 9,
+        "name": "Product 9",
+        "price": 261.83,
+        "category": "Furniture",
+        "stock": 151,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 10,
+        "name": "Product 10",
+        "price": 685.38,
+        "category": "laptop",
+        "stock": 20,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 11,
+        "name": "Product 11",
+        "price": 390.89,
+        "category": "Furniture",
+        "stock": 16,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 12,
+        "name": "Product 12",
+        "price": 465.7,
+        "category": "laptop",
+        "stock": 66,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 13,
+        "name": "Product 13",
+        "price": 990.03,
+        "category": "Furniture",
+        "stock": 96,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 14,
+        "name": "Product 14",
+        "price": 545.64,
+        "category": "Clothing",
+        "stock": 120,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 15,
+        "name": "Product 15",
+        "price": 1709.78,
+        "category": "Electronics",
+        "stock": 190,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 16,
+        "name": "Product 16",
+        "price": 586.28,
+        "category": "Electronics",
+        "stock": 95,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 17,
+        "name": "Product 17",
+        "price": 1722.34,
+        "category": "Stationery",
+        "stock": 42,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 18,
+        "name": "Product 18",
+        "price": 82.02,
+        "category": "Furniture",
+        "stock": 149,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 19,
+        "name": "Product 19",
+        "price": 1535.23,
+        "category": "Electronics",
+        "stock": 141,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 20,
+        "name": "Product 20",
+        "price": 1786.0,
+        "category": "Accessories",
+        "stock": 108,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 21,
+        "name": "Product 21",
+        "price": 1335.75,
+        "category": "Accessories",
+        "stock": 161,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 22,
+        "name": "Product 22",
+        "price": 265.37,
+        "category": "laptop",
+        "stock": 109,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 23,
+        "name": "Product 23",
+        "price": 526.94,
+        "category": "Electronics",
+        "stock": 17,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 24,
+        "name": "Product 24",
+        "price": 700.22,
+        "category": "Home Appliances",
+        "stock": 164,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 25,
+        "name": "Product 25",
+        "price": 1429.25,
+        "category": "Furniture",
+        "stock": 1,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 26,
+        "name": "Product 26",
+        "price": 661.44,
+        "category": "Electronics",
+        "stock": 31,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 27,
+        "name": "Product 27",
+        "price": 1587.85,
+        "category": "Clothing",
+        "stock": 117,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 28,
+        "name": "Product 28",
+        "price": 327.89,
+        "category": "Home Appliances",
+        "stock": 181,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 29,
+        "name": "Product 29",
+        "price": 490.95,
+        "category": "Furniture",
+        "stock": 187,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 30,
+        "name": "Product 30",
+        "price": 238.82,
+        "category": "Accessories",
+        "stock": 191,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 31,
+        "name": "Product 31",
+        "price": 205.75,
+        "category": "laptop",
+        "stock": 200,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 32,
+        "name": "Product 32",
+        "price": 1396.13,
+        "category": "Home Appliances",
+        "stock": 33,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 33,
+        "name": "Product 33",
+        "price": 117.51,
+        "category": "Clothing",
+        "stock": 11,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 34,
+        "name": "Product 34",
+        "price": 663.66,
+        "category": "Electronics",
+        "stock": 31,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 35,
+        "name": "Product 35",
+        "price": 912.76,
+        "category": "Accessories",
+        "stock": 90,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 36,
+        "name": "Product 36",
+        "price": 69.03,
+        "category": "Stationery",
+        "stock": 163,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 37,
+        "name": "Product 37",
+        "price": 1679.05,
+        "category": "Furniture",
+        "stock": 48,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 38,
+        "name": "Product 38",
+        "price": 1177.9,
+        "category": "Home Appliances",
+        "stock": 128,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 39,
+        "name": "Product 39",
+        "price": 574.66,
+        "category": "Clothing",
+        "stock": 174,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 40,
+        "name": "Product 40",
+        "price": 1058.99,
+        "category": "Home Appliances",
+        "stock": 9,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 41,
+        "name": "Product 41",
+        "price": 385.49,
+        "category": "Accessories",
+        "stock": 170,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 42,
+        "name": "Product 42",
+        "price": 448.33,
+        "category": "Stationery",
+        "stock": 159,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 43,
+        "name": "Product 43",
+        "price": 1947.49,
+        "category": "laptop",
+        "stock": 151,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 44,
+        "name": "Product 44",
+        "price": 1133.12,
+        "category": "laptop",
+        "stock": 89,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 45,
+        "name": "Product 45",
+        "price": 1813.62,
+        "category": "Home Appliances",
+        "stock": 185,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 46,
+        "name": "Product 46",
+        "price": 1111.75,
+        "category": "Furniture",
+        "stock": 96,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 47,
+        "name": "Product 47",
+        "price": 349.63,
+        "category": "Furniture",
+        "stock": 94,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 48,
+        "name": "Product 48",
+        "price": 345.68,
+        "category": "Clothing",
+        "stock": 147,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 49,
+        "name": "Product 49",
+        "price": 1862.22,
+        "category": "Clothing",
+        "stock": 78,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 50,
+        "name": "Product 50",
+        "price": 1459.76,
+        "category": "Electronics",
+        "stock": 121,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 51,
+        "name": "Product 51",
+        "price": 714.96,
+        "category": "Stationery",
+        "stock": 92,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 52,
+        "name": "Product 52",
+        "price": 254.31,
+        "category": "Furniture",
+        "stock": 163,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 53,
+        "name": "Product 53",
+        "price": 1431.87,
+        "category": "Stationery",
+        "stock": 126,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 54,
+        "name": "Product 54",
+        "price": 1313.71,
+        "category": "laptop",
+        "stock": 200,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 55,
+        "name": "Product 55",
+        "price": 1098.7,
+        "category": "Home Appliances",
+        "stock": 183,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 56,
+        "name": "Product 56",
+        "price": 1183.76,
+        "category": "Electronics",
+        "stock": 89,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 57,
+        "name": "Product 57",
+        "price": 1445.51,
+        "category": "Clothing",
+        "stock": 120,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 58,
+        "name": "Product 58",
+        "price": 1363.07,
+        "category": "Stationery",
+        "stock": 132,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 59,
+        "name": "Product 59",
+        "price": 875.9,
+        "category": "Accessories",
+        "stock": 173,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 60,
+        "name": "Product 60",
+        "price": 569.11,
+        "category": "laptop",
+        "stock": 87,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 61,
+        "name": "Product 61",
+        "price": 1879.05,
+        "category": "Accessories",
+        "stock": 190,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 62,
+        "name": "Product 62",
+        "price": 1335.0,
+        "category": "laptop",
+        "stock": 137,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 63,
+        "name": "Product 63",
+        "price": 240.55,
+        "category": "Electronics",
+        "stock": 72,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 64,
+        "name": "Product 64",
+        "price": 712.81,
+        "category": "Electronics",
+        "stock": 62,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 65,
+        "name": "Product 65",
+        "price": 982.22,
+        "category": "Stationery",
+        "stock": 99,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 66,
+        "name": "Product 66",
+        "price": 392.89,
+        "category": "laptop",
+        "stock": 42,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 67,
+        "name": "Product 67",
+        "price": 890.54,
+        "category": "Home Appliances",
+        "stock": 154,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 68,
+        "name": "Product 68",
+        "price": 215.27,
+        "category": "Stationery",
+        "stock": 172,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 69,
+        "name": "Product 69",
+        "price": 1379.05,
+        "category": "Stationery",
+        "stock": 83,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 70,
+        "name": "Product 70",
+        "price": 472.54,
+        "category": "Electronics",
+        "stock": 147,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 71,
+        "name": "Product 71",
+        "price": 549.31,
+        "category": "Electronics",
+        "stock": 188,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 72,
+        "name": "Product 72",
+        "price": 760.21,
+        "category": "Clothing",
+        "stock": 142,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 73,
+        "name": "Product 73",
+        "price": 839.96,
+        "category": "laptop",
+        "stock": 113,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 74,
+        "name": "Product 74",
+        "price": 66.69,
+        "category": "Home Appliances",
+        "stock": 37,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 75,
+        "name": "Product 75",
+        "price": 529.99,
+        "category": "Clothing",
+        "stock": 193,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 76,
+        "name": "Product 76",
+        "price": 76.14,
+        "category": "Accessories",
+        "stock": 94,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 77,
+        "name": "Product 77",
+        "price": 1985.75,
+        "category": "Stationery",
+        "stock": 56,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 78,
+        "name": "Product 78",
+        "price": 1401.87,
+        "category": "Accessories",
+        "stock": 161,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 79,
+        "name": "Product 79",
+        "price": 1508.79,
+        "category": "Accessories",
+        "stock": 155,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 80,
+        "name": "Product 80",
+        "price": 1989.24,
+        "category": "laptop",
+        "stock": 26,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 81,
+        "name": "Product 81",
+        "price": 782.53,
+        "category": "laptop",
+        "stock": 57,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 82,
+        "name": "Product 82",
+        "price": 1874.85,
+        "category": "Accessories",
+        "stock": 12,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 83,
+        "name": "Product 83",
+        "price": 1317.9,
+        "category": "Electronics",
+        "stock": 5,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 84,
+        "name": "Product 84",
+        "price": 1922.62,
+        "category": "Furniture",
+        "stock": 109,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 85,
+        "name": "Product 85",
+        "price": 178.02,
+        "category": "Stationery",
+        "stock": 22,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 86,
+        "name": "Product 86",
+        "price": 839.62,
+        "category": "Electronics",
+        "stock": 58,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 87,
+        "name": "Product 87",
+        "price": 1456.73,
+        "category": "Electronics",
+        "stock": 146,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 88,
+        "name": "Product 88",
+        "price": 23.92,
+        "category": "laptop",
+        "stock": 146,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 89,
+        "name": "Product 89",
+        "price": 1963.57,
+        "category": "laptop",
+        "stock": 188,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 90,
+        "name": "Product 90",
+        "price": 734.8,
+        "category": "Furniture",
+        "stock": 47,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 91,
+        "name": "Product 91",
+        "price": 1571.03,
+        "category": "Stationery",
+        "stock": 53,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 92,
+        "name": "Product 92",
+        "price": 704.82,
+        "category": "laptop",
+        "stock": 197,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 93,
+        "name": "Product 93",
+        "price": 1275.96,
+        "category": "Stationery",
+        "stock": 103,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 94,
+        "name": "Product 94",
+        "price": 1669.19,
+        "category": "Furniture",
+        "stock": 156,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 95,
+        "name": "Product 95",
+        "price": 1817.26,
+        "category": "Furniture",
+        "stock": 137,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 96,
+        "name": "Product 96",
+        "price": 624.16,
+        "category": "Home Appliances",
+        "stock": 137,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 97,
+        "name": "Product 97",
+        "price": 1550.55,
+        "category": "Clothing",
+        "stock": 68,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 98,
+        "name": "Product 98",
+        "price": 948.22,
+        "category": "Clothing",
+        "stock": 119,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 99,
+        "name": "Product 99",
+        "price": 1211.49,
+        "category": "Clothing",
+        "stock": 122,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 100,
+        "name": "Product 100",
+        "price": 1281.76,
+        "category": "Home Appliances",
+        "stock": 196,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 101,
+        "name": "Product 101",
+        "price": 1709.94,
+        "category": "laptop",
+        "stock": 78,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 102,
+        "name": "Product 102",
+        "price": 727.76,
+        "category": "Clothing",
+        "stock": 48,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 103,
+        "name": "Product 103",
+        "price": 189.61,
+        "category": "Clothing",
+        "stock": 101,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 104,
+        "name": "Product 104",
+        "price": 1973.78,
+        "category": "Clothing",
+        "stock": 18,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 105,
+        "name": "Product 105",
+        "price": 1963.87,
+        "category": "Electronics",
+        "stock": 59,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 106,
+        "name": "Product 106",
+        "price": 1543.43,
+        "category": "Furniture",
+        "stock": 53,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 107,
+        "name": "Product 107",
+        "price": 670.4,
+        "category": "Stationery",
+        "stock": 147,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 108,
+        "name": "Product 108",
+        "price": 1328.4,
+        "category": "Accessories",
+        "stock": 170,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 109,
+        "name": "Product 109",
+        "price": 531.93,
+        "category": "Furniture",
+        "stock": 9,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 110,
+        "name": "Product 110",
+        "price": 1314.85,
+        "category": "Furniture",
+        "stock": 145,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 111,
+        "name": "Product 111",
+        "price": 343.78,
+        "category": "Home Appliances",
+        "stock": 115,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 112,
+        "name": "Product 112",
+        "price": 27.68,
+        "category": "Home Appliances",
+        "stock": 19,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 113,
+        "name": "Product 113",
+        "price": 873.95,
+        "category": "laptop",
+        "stock": 27,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 114,
+        "name": "Product 114",
+        "price": 1415.98,
+        "category": "Accessories",
+        "stock": 191,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 115,
+        "name": "Product 115",
+        "price": 1460.16,
+        "category": "Accessories",
+        "stock": 129,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 116,
+        "name": "Product 116",
+        "price": 1220.96,
+        "category": "Furniture",
+        "stock": 171,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 117,
+        "name": "Product 117",
+        "price": 293.83,
+        "category": "Home Appliances",
+        "stock": 99,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 118,
+        "name": "Product 118",
+        "price": 780.95,
+        "category": "Home Appliances",
+        "stock": 97,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 119,
+        "name": "Product 119",
+        "price": 1048.27,
+        "category": "Accessories",
+        "stock": 47,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 120,
+        "name": "Product 120",
+        "price": 296.34,
+        "category": "Stationery",
+        "stock": 140,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 121,
+        "name": "Product 121",
+        "price": 1791.54,
+        "category": "Stationery",
+        "stock": 40,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 122,
+        "name": "Product 122",
+        "price": 1041.99,
+        "category": "Clothing",
+        "stock": 157,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 123,
+        "name": "Product 123",
+        "price": 117.8,
+        "category": "Stationery",
+        "stock": 8,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 124,
+        "name": "Product 124",
+        "price": 1437.51,
+        "category": "Stationery",
+        "stock": 13,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 125,
+        "name": "Product 125",
+        "price": 1738.09,
+        "category": "Stationery",
+        "stock": 71,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 126,
+        "name": "Product 126",
+        "price": 1916.82,
+        "category": "Electronics",
+        "stock": 85,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 127,
+        "name": "Product 127",
+        "price": 168.7,
+        "category": "Accessories",
+        "stock": 4,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 128,
+        "name": "Product 128",
+        "price": 1355.47,
+        "category": "Home Appliances",
+        "stock": 76,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 129,
+        "name": "Product 129",
+        "price": 633.24,
+        "category": "Clothing",
+        "stock": 1,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 130,
+        "name": "Product 130",
+        "price": 59.55,
+        "category": "Furniture",
+        "stock": 134,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 131,
+        "name": "Product 131",
+        "price": 312.62,
+        "category": "Home Appliances",
+        "stock": 4,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 132,
+        "name": "Product 132",
+        "price": 1840.06,
+        "category": "Home Appliances",
+        "stock": 181,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 133,
+        "name": "Product 133",
+        "price": 1524.8,
+        "category": "Electronics",
+        "stock": 40,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 134,
+        "name": "Product 134",
+        "price": 1690.42,
+        "category": "laptop",
+        "stock": 194,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 135,
+        "name": "Product 135",
+        "price": 394.97,
+        "category": "Clothing",
+        "stock": 54,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 136,
+        "name": "Product 136",
+        "price": 511.69,
+        "category": "Furniture",
+        "stock": 118,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 137,
+        "name": "Product 137",
+        "price": 1117.57,
+        "category": "Stationery",
+        "stock": 139,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 138,
+        "name": "Product 138",
+        "price": 1013.8,
+        "category": "Electronics",
+        "stock": 187,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 139,
+        "name": "Product 139",
+        "price": 1820.7,
+        "category": "Clothing",
+        "stock": 89,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 140,
+        "name": "Product 140",
+        "price": 1919.41,
+        "category": "Electronics",
+        "stock": 148,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 141,
+        "name": "Product 141",
+        "price": 1683.7,
+        "category": "Clothing",
+        "stock": 64,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 142,
+        "name": "Product 142",
+        "price": 1604.82,
+        "category": "Electronics",
+        "stock": 21,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 143,
+        "name": "Product 143",
+        "price": 718.52,
+        "category": "Furniture",
+        "stock": 161,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 144,
+        "name": "Product 144",
+        "price": 308.59,
+        "category": "Accessories",
+        "stock": 43,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 145,
+        "name": "Product 145",
+        "price": 677.0,
+        "category": "Furniture",
+        "stock": 108,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 146,
+        "name": "Product 146",
+        "price": 1476.05,
+        "category": "Clothing",
+        "stock": 14,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 147,
+        "name": "Product 147",
+        "price": 152.47,
+        "category": "Clothing",
+        "stock": 64,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 148,
+        "name": "Product 148",
+        "price": 1354.63,
+        "category": "Furniture",
+        "stock": 73,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 149,
+        "name": "Product 149",
+        "price": 1893.91,
+        "category": "Electronics",
+        "stock": 46,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 150,
+        "name": "Product 150",
+        "price": 849.0,
+        "category": "laptop",
+        "stock": 96,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 151,
+        "name": "Product 151",
+        "price": 1038.69,
+        "category": "Home Appliances",
+        "stock": 181,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 152,
+        "name": "Product 152",
+        "price": 1393.54,
+        "category": "laptop",
+        "stock": 58,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 153,
+        "name": "Product 153",
+        "price": 142.44,
+        "category": "Accessories",
+        "stock": 147,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 154,
+        "name": "Product 154",
+        "price": 686.98,
+        "category": "Clothing",
+        "stock": 84,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 155,
+        "name": "Product 155",
+        "price": 873.2,
+        "category": "Home Appliances",
+        "stock": 111,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 156,
+        "name": "Product 156",
+        "price": 821.99,
+        "category": "laptop",
+        "stock": 165,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 157,
+        "name": "Product 157",
+        "price": 264.32,
+        "category": "laptop",
+        "stock": 94,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 158,
+        "name": "Product 158",
+        "price": 1048.05,
+        "category": "Electronics",
+        "stock": 31,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 159,
+        "name": "Product 159",
+        "price": 1880.6,
+        "category": "Furniture",
+        "stock": 144,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 160,
+        "name": "Product 160",
+        "price": 1234.42,
+        "category": "Accessories",
+        "stock": 4,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 161,
+        "name": "Product 161",
+        "price": 251.55,
+        "category": "Furniture",
+        "stock": 22,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 162,
+        "name": "Product 162",
+        "price": 1138.01,
+        "category": "Electronics",
+        "stock": 199,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 163,
+        "name": "Product 163",
+        "price": 1526.57,
+        "category": "laptop",
+        "stock": 190,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 164,
+        "name": "Product 164",
+        "price": 25.39,
+        "category": "Stationery",
+        "stock": 19,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 165,
+        "name": "Product 165",
+        "price": 821.38,
+        "category": "Electronics",
+        "stock": 156,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 166,
+        "name": "Product 166",
+        "price": 347.44,
+        "category": "Home Appliances",
+        "stock": 177,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 167,
+        "name": "Product 167",
+        "price": 1886.64,
+        "category": "Clothing",
+        "stock": 8,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 168,
+        "name": "Product 168",
+        "price": 1785.29,
+        "category": "Clothing",
+        "stock": 77,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 169,
+        "name": "Product 169",
+        "price": 1811.14,
+        "category": "Furniture",
+        "stock": 26,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 170,
+        "name": "Product 170",
+        "price": 720.06,
+        "category": "laptop",
+        "stock": 14,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 171,
+        "name": "Product 171",
+        "price": 437.37,
+        "category": "laptop",
+        "stock": 98,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 172,
+        "name": "Product 172",
+        "price": 1256.9,
+        "category": "Electronics",
+        "stock": 84,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 173,
+        "name": "Product 173",
+        "price": 1145.02,
+        "category": "Furniture",
+        "stock": 34,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 174,
+        "name": "Product 174",
+        "price": 717.5,
+        "category": "Clothing",
+        "stock": 85,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 175,
+        "name": "Product 175",
+        "price": 146.71,
+        "category": "Furniture",
+        "stock": 99,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 176,
+        "name": "Product 176",
+        "price": 1116.62,
+        "category": "laptop",
+        "stock": 195,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 177,
+        "name": "Product 177",
+        "price": 1349.88,
+        "category": "Electronics",
+        "stock": 29,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 178,
+        "name": "Product 178",
+        "price": 489.54,
+        "category": "Clothing",
+        "stock": 191,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 179,
+        "name": "Product 179",
+        "price": 1698.79,
+        "category": "Electronics",
+        "stock": 148,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 180,
+        "name": "Product 180",
+        "price": 1792.04,
+        "category": "Furniture",
+        "stock": 198,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 181,
+        "name": "Product 181",
+        "price": 669.25,
+        "category": "Stationery",
+        "stock": 63,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 182,
+        "name": "Product 182",
+        "price": 856.31,
+        "category": "Clothing",
+        "stock": 43,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 183,
+        "name": "Product 183",
+        "price": 1506.13,
+        "category": "Electronics",
+        "stock": 86,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 184,
+        "name": "Product 184",
+        "price": 392.8,
+        "category": "Stationery",
+        "stock": 154,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 185,
+        "name": "Product 185",
+        "price": 35.47,
+        "category": "Electronics",
+        "stock": 109,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 186,
+        "name": "Product 186",
+        "price": 1744.02,
+        "category": "Accessories",
+        "stock": 159,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 187,
+        "name": "Product 187",
+        "price": 929.01,
+        "category": "Electronics",
+        "stock": 7,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 188,
+        "name": "Product 188",
+        "price": 1458.84,
+        "category": "Accessories",
+        "stock": 151,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 189,
+        "name": "Product 189",
+        "price": 79.7,
+        "category": "Clothing",
+        "stock": 50,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 190,
+        "name": "Product 190",
+        "price": 509.55,
+        "category": "Electronics",
+        "stock": 60,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 191,
+        "name": "Product 191",
+        "price": 479.17,
+        "category": "laptop",
+        "stock": 96,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 192,
+        "name": "Product 192",
+        "price": 497.93,
+        "category": "Clothing",
+        "stock": 2,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 193,
+        "name": "Product 193",
+        "price": 646.44,
+        "category": "Furniture",
+        "stock": 132,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 194,
+        "name": "Product 194",
+        "price": 875.8,
+        "category": "Electronics",
+        "stock": 8,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 195,
+        "name": "Product 195",
+        "price": 201.3,
+        "category": "Clothing",
+        "stock": 186,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 196,
+        "name": "Product 196",
+        "price": 1505.84,
+        "category": "Clothing",
+        "stock": 65,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 197,
+        "name": "Product 197",
+        "price": 904.67,
+        "category": "Furniture",
+        "stock": 167,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 198,
+        "name": "Product 198",
+        "price": 127.77,
+        "category": "Furniture",
+        "stock": 22,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 199,
+        "name": "Product 199",
+        "price": 1948.46,
+        "category": "Stationery",
+        "stock": 56,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 200,
+        "name": "Product 200",
+        "price": 1367.82,
+        "category": "Home Appliances",
+        "stock": 89,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 201,
+        "name": "Product 201",
+        "price": 1576.65,
+        "category": "Accessories",
+        "stock": 169,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 202,
+        "name": "Product 202",
+        "price": 861.68,
+        "category": "laptop",
+        "stock": 93,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 203,
+        "name": "Product 203",
+        "price": 232.8,
+        "category": "Electronics",
+        "stock": 54,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 204,
+        "name": "Product 204",
+        "price": 911.42,
+        "category": "laptop",
+        "stock": 158,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 205,
+        "name": "Product 205",
+        "price": 1779.29,
+        "category": "Clothing",
+        "stock": 105,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 206,
+        "name": "Product 206",
+        "price": 660.49,
+        "category": "laptop",
+        "stock": 65,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 207,
+        "name": "Product 207",
+        "price": 1229.65,
+        "category": "Electronics",
+        "stock": 102,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 208,
+        "name": "Product 208",
+        "price": 740.99,
+        "category": "Electronics",
+        "stock": 122,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 209,
+        "name": "Product 209",
+        "price": 1287.82,
+        "category": "Home Appliances",
+        "stock": 11,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 210,
+        "name": "Product 210",
+        "price": 292.4,
+        "category": "Stationery",
+        "stock": 132,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 211,
+        "name": "Product 211",
+        "price": 1918.65,
+        "category": "laptop",
+        "stock": 57,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 212,
+        "name": "Product 212",
+        "price": 1430.19,
+        "category": "laptop",
+        "stock": 85,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 213,
+        "name": "Product 213",
+        "price": 1697.63,
+        "category": "Furniture",
+        "stock": 176,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 214,
+        "name": "Product 214",
+        "price": 821.07,
+        "category": "laptop",
+        "stock": 127,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 215,
+        "name": "Product 215",
+        "price": 683.38,
+        "category": "Clothing",
+        "stock": 136,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 216,
+        "name": "Product 216",
+        "price": 1736.73,
+        "category": "Furniture",
+        "stock": 195,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 217,
+        "name": "Product 217",
+        "price": 938.84,
+        "category": "Accessories",
+        "stock": 49,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 218,
+        "name": "Product 218",
+        "price": 341.93,
+        "category": "Home Appliances",
+        "stock": 143,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 219,
+        "name": "Product 219",
+        "price": 767.55,
+        "category": "Accessories",
+        "stock": 86,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 220,
+        "name": "Product 220",
+        "price": 409.02,
+        "category": "Furniture",
+        "stock": 112,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 221,
+        "name": "Product 221",
+        "price": 1283.45,
+        "category": "Stationery",
+        "stock": 150,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 222,
+        "name": "Product 222",
+        "price": 1218.71,
+        "category": "Clothing",
+        "stock": 87,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 223,
+        "name": "Product 223",
+        "price": 417.55,
+        "category": "laptop",
+        "stock": 189,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 224,
+        "name": "Product 224",
+        "price": 128.33,
+        "category": "Accessories",
+        "stock": 114,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 225,
+        "name": "Product 225",
+        "price": 1139.47,
+        "category": "Stationery",
+        "stock": 43,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 226,
+        "name": "Product 226",
+        "price": 1094.34,
+        "category": "laptop",
+        "stock": 27,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 227,
+        "name": "Product 227",
+        "price": 1058.66,
+        "category": "Stationery",
+        "stock": 23,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 228,
+        "name": "Product 228",
+        "price": 816.05,
+        "category": "Electronics",
+        "stock": 93,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 229,
+        "name": "Product 229",
+        "price": 933.22,
+        "category": "Furniture",
+        "stock": 100,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 230,
+        "name": "Product 230",
+        "price": 1030.91,
+        "category": "Electronics",
+        "stock": 94,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 231,
+        "name": "Product 231",
+        "price": 91.06,
+        "category": "Stationery",
+        "stock": 73,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 232,
+        "name": "Product 232",
+        "price": 1321.51,
+        "category": "Accessories",
+        "stock": 187,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 233,
+        "name": "Product 233",
+        "price": 1530.86,
+        "category": "Clothing",
+        "stock": 165,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 234,
+        "name": "Product 234",
+        "price": 34.09,
+        "category": "Stationery",
+        "stock": 180,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 235,
+        "name": "Product 235",
+        "price": 1880.01,
+        "category": "Stationery",
+        "stock": 162,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 236,
+        "name": "Product 236",
+        "price": 323.28,
+        "category": "laptop",
+        "stock": 197,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 237,
+        "name": "Product 237",
+        "price": 1775.51,
+        "category": "laptop",
+        "stock": 165,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 238,
+        "name": "Product 238",
+        "price": 1292.01,
+        "category": "Stationery",
+        "stock": 156,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 239,
+        "name": "Product 239",
+        "price": 1644.94,
+        "category": "Home Appliances",
+        "stock": 2,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 240,
+        "name": "Product 240",
+        "price": 90.12,
+        "category": "laptop",
+        "stock": 69,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 241,
+        "name": "Product 241",
+        "price": 259.1,
+        "category": "laptop",
+        "stock": 77,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 242,
+        "name": "Product 242",
+        "price": 711.26,
+        "category": "laptop",
+        "stock": 149,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 243,
+        "name": "Product 243",
+        "price": 834.09,
+        "category": "Furniture",
+        "stock": 119,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 244,
+        "name": "Product 244",
+        "price": 1678.75,
+        "category": "Electronics",
+        "stock": 182,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 245,
+        "name": "Product 245",
+        "price": 665.91,
+        "category": "Electronics",
+        "stock": 138,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 246,
+        "name": "Product 246",
+        "price": 984.57,
+        "category": "Accessories",
+        "stock": 8,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 247,
+        "name": "Product 247",
+        "price": 589.27,
+        "category": "Clothing",
+        "stock": 4,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 248,
+        "name": "Product 248",
+        "price": 326.37,
+        "category": "laptop",
+        "stock": 21,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 249,
+        "name": "Product 249",
+        "price": 1274.01,
+        "category": "Accessories",
+        "stock": 30,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 250,
+        "name": "Product 250",
+        "price": 1626.45,
+        "category": "Electronics",
+        "stock": 137,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 251,
+        "name": "Product 251",
+        "price": 1554.2,
+        "category": "Furniture",
+        "stock": 179,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 252,
+        "name": "Product 252",
+        "price": 1878.84,
+        "category": "Home Appliances",
+        "stock": 36,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 253,
+        "name": "Product 253",
+        "price": 955.13,
+        "category": "laptop",
+        "stock": 181,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 254,
+        "name": "Product 254",
+        "price": 1920.25,
+        "category": "Accessories",
+        "stock": 12,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 255,
+        "name": "Product 255",
+        "price": 1977.42,
+        "category": "Stationery",
+        "stock": 141,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 256,
+        "name": "Product 256",
+        "price": 1126.65,
+        "category": "laptop",
+        "stock": 41,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 257,
+        "name": "Product 257",
+        "price": 139.85,
+        "category": "Clothing",
+        "stock": 121,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 258,
+        "name": "Product 258",
+        "price": 7.91,
+        "category": "Accessories",
+        "stock": 186,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 259,
+        "name": "Product 259",
+        "price": 13.74,
+        "category": "Electronics",
+        "stock": 58,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 260,
+        "name": "Product 260",
+        "price": 1662.68,
+        "category": "Accessories",
+        "stock": 85,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 261,
+        "name": "Product 261",
+        "price": 1186.27,
+        "category": "Furniture",
+        "stock": 104,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 262,
+        "name": "Product 262",
+        "price": 43.04,
+        "category": "Accessories",
+        "stock": 170,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 263,
+        "name": "Product 263",
+        "price": 270.01,
+        "category": "Furniture",
+        "stock": 179,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 264,
+        "name": "Product 264",
+        "price": 1541.19,
+        "category": "laptop",
+        "stock": 101,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 265,
+        "name": "Product 265",
+        "price": 573.44,
+        "category": "Accessories",
+        "stock": 96,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 266,
+        "name": "Product 266",
+        "price": 967.15,
+        "category": "Furniture",
+        "stock": 43,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 267,
+        "name": "Product 267",
+        "price": 1053.28,
+        "category": "Furniture",
+        "stock": 82,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 268,
+        "name": "Product 268",
+        "price": 1323.26,
+        "category": "Clothing",
+        "stock": 22,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 269,
+        "name": "Product 269",
+        "price": 634.16,
+        "category": "Home Appliances",
+        "stock": 83,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 270,
+        "name": "Product 270",
+        "price": 999.05,
+        "category": "Furniture",
+        "stock": 152,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 271,
+        "name": "Product 271",
+        "price": 333.56,
+        "category": "Furniture",
+        "stock": 183,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 272,
+        "name": "Product 272",
+        "price": 1022.4,
+        "category": "Clothing",
+        "stock": 188,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 273,
+        "name": "Product 273",
+        "price": 371.08,
+        "category": "Electronics",
+        "stock": 98,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 274,
+        "name": "Product 274",
+        "price": 1556.22,
+        "category": "Accessories",
+        "stock": 25,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 275,
+        "name": "Product 275",
+        "price": 1417.32,
+        "category": "Furniture",
+        "stock": 48,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 276,
+        "name": "Product 276",
+        "price": 1384.56,
+        "category": "Electronics",
+        "stock": 10,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 277,
+        "name": "Product 277",
+        "price": 1488.03,
+        "category": "Electronics",
+        "stock": 79,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 278,
+        "name": "Product 278",
+        "price": 552.36,
+        "category": "Accessories",
+        "stock": 67,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 279,
+        "name": "Product 279",
+        "price": 619.99,
+        "category": "Home Appliances",
+        "stock": 106,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 280,
+        "name": "Product 280",
+        "price": 560.74,
+        "category": "Stationery",
+        "stock": 9,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 281,
+        "name": "Product 281",
+        "price": 341.84,
+        "category": "laptop",
+        "stock": 28,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 282,
+        "name": "Product 282",
+        "price": 672.03,
+        "category": "Furniture",
+        "stock": 34,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 283,
+        "name": "Product 283",
+        "price": 1612.24,
+        "category": "Accessories",
+        "stock": 196,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 284,
+        "name": "Product 284",
+        "price": 345.04,
+        "category": "Home Appliances",
+        "stock": 174,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 285,
+        "name": "Product 285",
+        "price": 1238.29,
+        "category": "Home Appliances",
+        "stock": 87,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 286,
+        "name": "Product 286",
+        "price": 1304.33,
+        "category": "Stationery",
+        "stock": 45,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 287,
+        "name": "Product 287",
+        "price": 1258.97,
+        "category": "Electronics",
+        "stock": 183,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 288,
+        "name": "Product 288",
+        "price": 1710.96,
+        "category": "laptop",
+        "stock": 78,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 289,
+        "name": "Product 289",
+        "price": 919.89,
+        "category": "Stationery",
+        "stock": 69,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 290,
+        "name": "Product 290",
+        "price": 1980.07,
+        "category": "Clothing",
+        "stock": 149,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 291,
+        "name": "Product 291",
+        "price": 1613.44,
+        "category": "Home Appliances",
+        "stock": 145,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 292,
+        "name": "Product 292",
+        "price": 1930.3,
+        "category": "Stationery",
+        "stock": 150,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 293,
+        "name": "Product 293",
+        "price": 994.13,
+        "category": "laptop",
+        "stock": 32,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 294,
+        "name": "Product 294",
+        "price": 32.67,
+        "category": "Stationery",
+        "stock": 83,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 295,
+        "name": "Product 295",
+        "price": 374.63,
+        "category": "Accessories",
+        "stock": 90,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 296,
+        "name": "Product 296",
+        "price": 1253.93,
+        "category": "Furniture",
+        "stock": 194,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 297,
+        "name": "Product 297",
+        "price": 338.39,
+        "category": "laptop",
+        "stock": 126,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 298,
+        "name": "Product 298",
+        "price": 1489.63,
+        "category": "Furniture",
+        "stock": 124,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 299,
+        "name": "Product 299",
+        "price": 1089.9,
+        "category": "Stationery",
+        "stock": 36,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 300,
+        "name": "Product 300",
+        "price": 1291.33,
+        "category": "laptop",
+        "stock": 115,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 301,
+        "name": "Product 301",
+        "price": 137.83,
+        "category": "Clothing",
+        "stock": 104,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 302,
+        "name": "Product 302",
+        "price": 1879.51,
+        "category": "Accessories",
+        "stock": 63,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 303,
+        "name": "Product 303",
+        "price": 1291.56,
+        "category": "Stationery",
+        "stock": 74,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 304,
+        "name": "Product 304",
+        "price": 696.67,
+        "category": "Electronics",
+        "stock": 37,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 305,
+        "name": "Product 305",
+        "price": 67.76,
+        "category": "Stationery",
+        "stock": 92,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 306,
+        "name": "Product 306",
+        "price": 502.67,
+        "category": "Electronics",
+        "stock": 25,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 307,
+        "name": "Product 307",
+        "price": 1818.38,
+        "category": "laptop",
+        "stock": 27,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 308,
+        "name": "Product 308",
+        "price": 587.05,
+        "category": "Clothing",
+        "stock": 16,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 309,
+        "name": "Product 309",
+        "price": 813.69,
+        "category": "Accessories",
+        "stock": 19,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 310,
+        "name": "Product 310",
+        "price": 1284.51,
+        "category": "Electronics",
+        "stock": 195,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 311,
+        "name": "Product 311",
+        "price": 847.0,
+        "category": "laptop",
+        "stock": 85,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 312,
+        "name": "Product 312",
+        "price": 20.33,
+        "category": "laptop",
+        "stock": 33,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 313,
+        "name": "Product 313",
+        "price": 1653.45,
+        "category": "Home Appliances",
+        "stock": 162,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 314,
+        "name": "Product 314",
+        "price": 1656.27,
+        "category": "Stationery",
+        "stock": 149,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 315,
+        "name": "Product 315",
+        "price": 355.08,
+        "category": "Electronics",
+        "stock": 59,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 316,
+        "name": "Product 316",
+        "price": 12.46,
+        "category": "Clothing",
+        "stock": 59,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 317,
+        "name": "Product 317",
+        "price": 1725.5,
+        "category": "Furniture",
+        "stock": 128,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 318,
+        "name": "Product 318",
+        "price": 197.7,
+        "category": "Clothing",
+        "stock": 86,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 319,
+        "name": "Product 319",
+        "price": 346.49,
+        "category": "Home Appliances",
+        "stock": 51,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 320,
+        "name": "Product 320",
+        "price": 1480.91,
+        "category": "Home Appliances",
+        "stock": 114,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 321,
+        "name": "Product 321",
+        "price": 640.21,
+        "category": "Home Appliances",
+        "stock": 97,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 322,
+        "name": "Product 322",
+        "price": 1717.77,
+        "category": "Clothing",
+        "stock": 31,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 323,
+        "name": "Product 323",
+        "price": 1734.03,
+        "category": "Stationery",
+        "stock": 97,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 324,
+        "name": "Product 324",
+        "price": 874.58,
+        "category": "Stationery",
+        "stock": 165,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 325,
+        "name": "Product 325",
+        "price": 1667.26,
+        "category": "Home Appliances",
+        "stock": 36,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 326,
+        "name": "Product 326",
+        "price": 1313.56,
+        "category": "Electronics",
+        "stock": 59,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 327,
+        "name": "Product 327",
+        "price": 654.26,
+        "category": "Home Appliances",
+        "stock": 40,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 328,
+        "name": "Product 328",
+        "price": 1240.77,
+        "category": "Stationery",
+        "stock": 12,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 329,
+        "name": "Product 329",
+        "price": 1480.19,
+        "category": "Home Appliances",
+        "stock": 138,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 330,
+        "name": "Product 330",
+        "price": 513.66,
+        "category": "laptop",
+        "stock": 117,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 331,
+        "name": "Product 331",
+        "price": 340.63,
+        "category": "Accessories",
+        "stock": 153,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 332,
+        "name": "Product 332",
+        "price": 131.43,
+        "category": "Accessories",
+        "stock": 43,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 333,
+        "name": "Product 333",
+        "price": 1682.9,
+        "category": "Clothing",
+        "stock": 112,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 334,
+        "name": "Product 334",
+        "price": 1731.05,
+        "category": "Accessories",
+        "stock": 180,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 335,
+        "name": "Product 335",
+        "price": 1618.09,
+        "category": "Electronics",
+        "stock": 29,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 336,
+        "name": "Product 336",
+        "price": 1158.15,
+        "category": "Clothing",
+        "stock": 91,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 337,
+        "name": "Product 337",
+        "price": 555.77,
+        "category": "Home Appliances",
+        "stock": 80,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 338,
+        "name": "Product 338",
+        "price": 9.61,
+        "category": "Clothing",
+        "stock": 27,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 339,
+        "name": "Product 339",
+        "price": 1929.36,
+        "category": "laptop",
+        "stock": 161,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 340,
+        "name": "Product 340",
+        "price": 1990.72,
+        "category": "laptop",
+        "stock": 199,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 341,
+        "name": "Product 341",
+        "price": 559.43,
+        "category": "Furniture",
+        "stock": 178,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 342,
+        "name": "Product 342",
+        "price": 1922.93,
+        "category": "Home Appliances",
+        "stock": 77,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 343,
+        "name": "Product 343",
+        "price": 438.06,
+        "category": "Furniture",
+        "stock": 152,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 344,
+        "name": "Product 344",
+        "price": 1482.21,
+        "category": "Furniture",
+        "stock": 200,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 345,
+        "name": "Product 345",
+        "price": 412.7,
+        "category": "Clothing",
+        "stock": 12,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 346,
+        "name": "Product 346",
+        "price": 1514.21,
+        "category": "Furniture",
+        "stock": 112,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 347,
+        "name": "Product 347",
+        "price": 1039.17,
+        "category": "Clothing",
+        "stock": 53,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 348,
+        "name": "Product 348",
+        "price": 93.15,
+        "category": "Clothing",
+        "stock": 25,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 349,
+        "name": "Product 349",
+        "price": 1898.1,
+        "category": "laptop",
+        "stock": 196,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 350,
+        "name": "Product 350",
+        "price": 1194.72,
+        "category": "Furniture",
+        "stock": 121,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 351,
+        "name": "Product 351",
+        "price": 1512.85,
+        "category": "Stationery",
+        "stock": 105,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 352,
+        "name": "Product 352",
+        "price": 391.96,
+        "category": "Clothing",
+        "stock": 21,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 353,
+        "name": "Product 353",
+        "price": 1550.94,
+        "category": "Home Appliances",
+        "stock": 162,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 354,
+        "name": "Product 354",
+        "price": 329.84,
+        "category": "Accessories",
+        "stock": 87,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 355,
+        "name": "Product 355",
+        "price": 1947.05,
+        "category": "Home Appliances",
+        "stock": 135,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 356,
+        "name": "Product 356",
+        "price": 1127.23,
+        "category": "Electronics",
+        "stock": 172,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 357,
+        "name": "Product 357",
+        "price": 376.07,
+        "category": "Furniture",
+        "stock": 97,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 358,
+        "name": "Product 358",
+        "price": 109.77,
+        "category": "Furniture",
+        "stock": 87,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 359,
+        "name": "Product 359",
+        "price": 1698.49,
+        "category": "Home Appliances",
+        "stock": 143,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 360,
+        "name": "Product 360",
+        "price": 41.09,
+        "category": "Stationery",
+        "stock": 135,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 361,
+        "name": "Product 361",
+        "price": 1623.06,
+        "category": "laptop",
+        "stock": 98,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 362,
+        "name": "Product 362",
+        "price": 1324.39,
+        "category": "Accessories",
+        "stock": 45,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 363,
+        "name": "Product 363",
+        "price": 1106.44,
+        "category": "Home Appliances",
+        "stock": 20,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 364,
+        "name": "Product 364",
+        "price": 348.21,
+        "category": "Furniture",
+        "stock": 81,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 365,
+        "name": "Product 365",
+        "price": 47.07,
+        "category": "Home Appliances",
+        "stock": 104,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 366,
+        "name": "Product 366",
+        "price": 1586.75,
+        "category": "Home Appliances",
+        "stock": 185,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 367,
+        "name": "Product 367",
+        "price": 488.75,
+        "category": "Accessories",
+        "stock": 165,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 368,
+        "name": "Product 368",
+        "price": 1817.32,
+        "category": "Electronics",
+        "stock": 151,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 369,
+        "name": "Product 369",
+        "price": 1589.13,
+        "category": "Furniture",
+        "stock": 40,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 370,
+        "name": "Product 370",
+        "price": 497.37,
+        "category": "Furniture",
+        "stock": 21,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 371,
+        "name": "Product 371",
+        "price": 562.05,
+        "category": "Accessories",
+        "stock": 193,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 372,
+        "name": "Product 372",
+        "price": 1922.87,
+        "category": "Accessories",
+        "stock": 115,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 373,
+        "name": "Product 373",
+        "price": 1668.51,
+        "category": "Home Appliances",
+        "stock": 158,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 374,
+        "name": "Product 374",
+        "price": 1822.41,
+        "category": "Stationery",
+        "stock": 181,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 375,
+        "name": "Product 375",
+        "price": 934.77,
+        "category": "Accessories",
+        "stock": 59,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 376,
+        "name": "Product 376",
+        "price": 1101.15,
+        "category": "Home Appliances",
+        "stock": 200,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 377,
+        "name": "Product 377",
+        "price": 741.43,
+        "category": "Accessories",
+        "stock": 78,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 378,
+        "name": "Product 378",
+        "price": 1812.38,
+        "category": "Home Appliances",
+        "stock": 96,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 379,
+        "name": "Product 379",
+        "price": 865.8,
+        "category": "laptop",
+        "stock": 17,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 380,
+        "name": "Product 380",
+        "price": 909.0,
+        "category": "laptop",
+        "stock": 67,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 381,
+        "name": "Product 381",
+        "price": 619.37,
+        "category": "Furniture",
+        "stock": 60,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 382,
+        "name": "Product 382",
+        "price": 10.92,
+        "category": "Clothing",
+        "stock": 160,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 383,
+        "name": "Product 383",
+        "price": 1409.35,
+        "category": "laptop",
+        "stock": 96,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 384,
+        "name": "Product 384",
+        "price": 1236.92,
+        "category": "laptop",
+        "stock": 59,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 385,
+        "name": "Product 385",
+        "price": 1951.89,
+        "category": "Electronics",
+        "stock": 33,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 386,
+        "name": "Product 386",
+        "price": 243.47,
+        "category": "Home Appliances",
+        "stock": 53,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 387,
+        "name": "Product 387",
+        "price": 1304.18,
+        "category": "Clothing",
+        "stock": 83,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 388,
+        "name": "Product 388",
+        "price": 1487.85,
+        "category": "Clothing",
+        "stock": 27,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 389,
+        "name": "Product 389",
+        "price": 525.6,
+        "category": "Accessories",
+        "stock": 48,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 390,
+        "name": "Product 390",
+        "price": 226.42,
+        "category": "Furniture",
+        "stock": 6,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 391,
+        "name": "Product 391",
+        "price": 1125.21,
+        "category": "Stationery",
+        "stock": 20,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 392,
+        "name": "Product 392",
+        "price": 1885.28,
+        "category": "Electronics",
+        "stock": 199,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 393,
+        "name": "Product 393",
+        "price": 1064.67,
+        "category": "Stationery",
+        "stock": 54,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 394,
+        "name": "Product 394",
+        "price": 70.71,
+        "category": "Furniture",
+        "stock": 20,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 395,
+        "name": "Product 395",
+        "price": 1584.34,
+        "category": "Electronics",
+        "stock": 155,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 396,
+        "name": "Product 396",
+        "price": 628.39,
+        "category": "Stationery",
+        "stock": 59,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 397,
+        "name": "Product 397",
+        "price": 136.22,
+        "category": "Stationery",
+        "stock": 100,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 398,
+        "name": "Product 398",
+        "price": 73.11,
+        "category": "Furniture",
+        "stock": 148,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 399,
+        "name": "Product 399",
+        "price": 1329.73,
+        "category": "laptop",
+        "stock": 94,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 400,
+        "name": "Product 400",
+        "price": 225.8,
+        "category": "Home Appliances",
+        "stock": 131,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 401,
+        "name": "Product 401",
+        "price": 1178.41,
+        "category": "Electronics",
+        "stock": 106,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 402,
+        "name": "Product 402",
+        "price": 1853.07,
+        "category": "Electronics",
+        "stock": 30,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 403,
+        "name": "Product 403",
+        "price": 1440.62,
+        "category": "Clothing",
+        "stock": 51,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 404,
+        "name": "Product 404",
+        "price": 23.3,
+        "category": "Accessories",
+        "stock": 104,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 405,
+        "name": "Product 405",
+        "price": 1067.06,
+        "category": "Accessories",
+        "stock": 81,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 406,
+        "name": "Product 406",
+        "price": 1827.81,
+        "category": "Home Appliances",
+        "stock": 84,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 407,
+        "name": "Product 407",
+        "price": 51.29,
+        "category": "Stationery",
+        "stock": 60,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 408,
+        "name": "Product 408",
+        "price": 143.09,
+        "category": "laptop",
+        "stock": 19,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 409,
+        "name": "Product 409",
+        "price": 202.78,
+        "category": "Electronics",
+        "stock": 170,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 410,
+        "name": "Product 410",
+        "price": 897.17,
+        "category": "Electronics",
+        "stock": 48,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 411,
+        "name": "Product 411",
+        "price": 970.7,
+        "category": "Stationery",
+        "stock": 25,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 412,
+        "name": "Product 412",
+        "price": 1481.23,
+        "category": "Electronics",
+        "stock": 9,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 413,
+        "name": "Product 413",
+        "price": 1212.83,
+        "category": "Furniture",
+        "stock": 51,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 414,
+        "name": "Product 414",
+        "price": 1981.76,
+        "category": "Electronics",
+        "stock": 131,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 415,
+        "name": "Product 415",
+        "price": 1532.32,
+        "category": "Electronics",
+        "stock": 0,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 416,
+        "name": "Product 416",
+        "price": 1739.41,
+        "category": "laptop",
+        "stock": 144,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 417,
+        "name": "Product 417",
+        "price": 1788.5,
+        "category": "Clothing",
+        "stock": 66,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 418,
+        "name": "Product 418",
+        "price": 702.65,
+        "category": "Electronics",
+        "stock": 126,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 419,
+        "name": "Product 419",
+        "price": 894.07,
+        "category": "Home Appliances",
+        "stock": 95,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 420,
+        "name": "Product 420",
+        "price": 1048.57,
+        "category": "Home Appliances",
+        "stock": 130,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 421,
+        "name": "Product 421",
+        "price": 387.34,
+        "category": "Accessories",
+        "stock": 5,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 422,
+        "name": "Product 422",
+        "price": 1227.92,
+        "category": "Accessories",
+        "stock": 37,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 423,
+        "name": "Product 423",
+        "price": 237.84,
+        "category": "laptop",
+        "stock": 168,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 424,
+        "name": "Product 424",
+        "price": 1522.03,
+        "category": "Clothing",
+        "stock": 170,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 425,
+        "name": "Product 425",
+        "price": 1011.04,
+        "category": "laptop",
+        "stock": 45,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 426,
+        "name": "Product 426",
+        "price": 654.53,
+        "category": "Clothing",
+        "stock": 117,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 427,
+        "name": "Product 427",
+        "price": 667.47,
+        "category": "Home Appliances",
+        "stock": 175,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 428,
+        "name": "Product 428",
+        "price": 1515.28,
+        "category": "Stationery",
+        "stock": 196,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 429,
+        "name": "Product 429",
+        "price": 556.79,
+        "category": "Stationery",
+        "stock": 126,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 430,
+        "name": "Product 430",
+        "price": 369.68,
+        "category": "laptop",
+        "stock": 159,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 431,
+        "name": "Product 431",
+        "price": 1154.74,
+        "category": "Accessories",
+        "stock": 79,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 432,
+        "name": "Product 432",
+        "price": 1713.85,
+        "category": "Furniture",
+        "stock": 200,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 433,
+        "name": "Product 433",
+        "price": 1543.39,
+        "category": "Home Appliances",
+        "stock": 170,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 434,
+        "name": "Product 434",
+        "price": 12.21,
+        "category": "Home Appliances",
+        "stock": 65,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 435,
+        "name": "Product 435",
+        "price": 1550.5,
+        "category": "Clothing",
+        "stock": 66,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 436,
+        "name": "Product 436",
+        "price": 1711.61,
+        "category": "Stationery",
+        "stock": 19,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 437,
+        "name": "Product 437",
+        "price": 1257.29,
+        "category": "Accessories",
+        "stock": 124,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 438,
+        "name": "Product 438",
+        "price": 779.64,
+        "category": "Home Appliances",
+        "stock": 98,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 439,
+        "name": "Product 439",
+        "price": 180.55,
+        "category": "Accessories",
+        "stock": 157,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 440,
+        "name": "Product 440",
+        "price": 1713.4,
+        "category": "Home Appliances",
+        "stock": 59,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 441,
+        "name": "Product 441",
+        "price": 1371.11,
+        "category": "Stationery",
+        "stock": 53,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 442,
+        "name": "Product 442",
+        "price": 1328.21,
+        "category": "Furniture",
+        "stock": 147,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 443,
+        "name": "Product 443",
+        "price": 14.06,
+        "category": "Furniture",
+        "stock": 66,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 444,
+        "name": "Product 444",
+        "price": 1879.35,
+        "category": "Clothing",
+        "stock": 189,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 445,
+        "name": "Product 445",
+        "price": 127.04,
+        "category": "Furniture",
+        "stock": 192,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 446,
+        "name": "Product 446",
+        "price": 1073.7,
+        "category": "Home Appliances",
+        "stock": 59,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 447,
+        "name": "Product 447",
+        "price": 1280.96,
+        "category": "Electronics",
+        "stock": 7,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 448,
+        "name": "Product 448",
+        "price": 120.91,
+        "category": "Electronics",
+        "stock": 152,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 449,
+        "name": "Product 449",
+        "price": 1669.37,
+        "category": "Stationery",
+        "stock": 136,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 450,
+        "name": "Product 450",
+        "price": 1347.02,
+        "category": "Clothing",
+        "stock": 27,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 451,
+        "name": "Product 451",
+        "price": 980.18,
+        "category": "Clothing",
+        "stock": 50,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 452,
+        "name": "Product 452",
+        "price": 529.3,
+        "category": "Accessories",
+        "stock": 72,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 453,
+        "name": "Product 453",
+        "price": 1069.94,
+        "category": "Accessories",
+        "stock": 17,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 454,
+        "name": "Product 454",
+        "price": 1400.85,
+        "category": "Furniture",
+        "stock": 7,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 455,
+        "name": "Product 455",
+        "price": 1436.89,
+        "category": "laptop",
+        "stock": 161,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 456,
+        "name": "Product 456",
+        "price": 194.97,
+        "category": "Stationery",
+        "stock": 165,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 457,
+        "name": "Product 457",
+        "price": 668.63,
+        "category": "laptop",
+        "stock": 111,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 458,
+        "name": "Product 458",
+        "price": 1947.12,
+        "category": "Furniture",
+        "stock": 89,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 459,
+        "name": "Product 459",
+        "price": 515.28,
+        "category": "Electronics",
+        "stock": 63,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 460,
+        "name": "Product 460",
+        "price": 51.2,
+        "category": "Stationery",
+        "stock": 69,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 461,
+        "name": "Product 461",
+        "price": 1990.12,
+        "category": "laptop",
+        "stock": 96,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 462,
+        "name": "Product 462",
+        "price": 253.29,
+        "category": "Stationery",
+        "stock": 40,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 463,
+        "name": "Product 463",
+        "price": 1517.9,
+        "category": "Furniture",
+        "stock": 192,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 464,
+        "name": "Product 464",
+        "price": 553.76,
+        "category": "Furniture",
+        "stock": 21,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 465,
+        "name": "Product 465",
+        "price": 1021.47,
+        "category": "Clothing",
+        "stock": 16,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 466,
+        "name": "Product 466",
+        "price": 638.56,
+        "category": "Electronics",
+        "stock": 156,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 467,
+        "name": "Product 467",
+        "price": 890.3,
+        "category": "laptop",
+        "stock": 98,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 468,
+        "name": "Product 468",
+        "price": 96.42,
+        "category": "Furniture",
+        "stock": 188,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 469,
+        "name": "Product 469",
+        "price": 1591.4,
+        "category": "Stationery",
+        "stock": 109,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 470,
+        "name": "Product 470",
+        "price": 1078.22,
+        "category": "Accessories",
+        "stock": 98,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 471,
+        "name": "Product 471",
+        "price": 1864.03,
+        "category": "laptop",
+        "stock": 25,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 472,
+        "name": "Product 472",
+        "price": 1984.76,
+        "category": "Clothing",
+        "stock": 174,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 473,
+        "name": "Product 473",
+        "price": 1157.86,
+        "category": "Furniture",
+        "stock": 42,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 474,
+        "name": "Product 474",
+        "price": 1132.37,
+        "category": "Furniture",
+        "stock": 105,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 475,
+        "name": "Product 475",
+        "price": 953.22,
+        "category": "Electronics",
+        "stock": 141,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 476,
+        "name": "Product 476",
+        "price": 1811.43,
+        "category": "Electronics",
+        "stock": 134,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 477,
+        "name": "Product 477",
+        "price": 608.64,
+        "category": "Furniture",
+        "stock": 7,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 478,
+        "name": "Product 478",
+        "price": 964.23,
+        "category": "Clothing",
+        "stock": 40,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 479,
+        "name": "Product 479",
+        "price": 749.93,
+        "category": "Furniture",
+        "stock": 181,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 480,
+        "name": "Product 480",
+        "price": 1234.28,
+        "category": "Clothing",
+        "stock": 131,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 481,
+        "name": "Product 481",
+        "price": 1036.15,
+        "category": "Accessories",
+        "stock": 179,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 482,
+        "name": "Product 482",
+        "price": 1298.38,
+        "category": "Home Appliances",
+        "stock": 0,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 483,
+        "name": "Product 483",
+        "price": 567.71,
+        "category": "Stationery",
+        "stock": 158,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 484,
+        "name": "Product 484",
+        "price": 388.59,
+        "category": "Stationery",
+        "stock": 185,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 485,
+        "name": "Product 485",
+        "price": 376.73,
+        "category": "Electronics",
+        "stock": 44,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 486,
+        "name": "Product 486",
+        "price": 773.19,
+        "category": "Accessories",
+        "stock": 176,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 487,
+        "name": "Product 487",
+        "price": 15.28,
+        "category": "Furniture",
+        "stock": 11,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 488,
+        "name": "Product 488",
+        "price": 1599.54,
+        "category": "Home Appliances",
+        "stock": 111,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 489,
+        "name": "Product 489",
+        "price": 136.67,
+        "category": "Electronics",
+        "stock": 139,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 490,
+        "name": "Product 490",
+        "price": 1277.39,
+        "category": "laptop",
+        "stock": 138,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 491,
+        "name": "Product 491",
+        "price": 816.95,
+        "category": "Accessories",
+        "stock": 54,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 492,
+        "name": "Product 492",
+        "price": 195.81,
+        "category": "Stationery",
+        "stock": 79,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 493,
+        "name": "Product 493",
+        "price": 1106.29,
+        "category": "Electronics",
+        "stock": 110,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 494,
+        "name": "Product 494",
+        "price": 1161.12,
+        "category": "Accessories",
+        "stock": 76,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 495,
+        "name": "Product 495",
+        "price": 1912.47,
+        "category": "Stationery",
+        "stock": 27,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 496,
+        "name": "Product 496",
+        "price": 1618.3,
+        "category": "Furniture",
+        "stock": 14,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 497,
+        "name": "Product 497",
+        "price": 1384.01,
+        "category": "Furniture",
+        "stock": 156,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 498,
+        "name": "Product 498",
+        "price": 234.19,
+        "category": "Accessories",
+        "stock": 173,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 499,
+        "name": "Product 499",
+        "price": 1093.96,
+        "category": "Stationery",
+        "stock": 37,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 500,
+        "name": "Product 500",
+        "price": 747.4,
+        "category": "Accessories",
+        "stock": 179,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 501,
+        "name": "Product 501",
+        "price": 1192.17,
+        "category": "Electronics",
+        "stock": 158,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 502,
+        "name": "Product 502",
+        "price": 1235.44,
+        "category": "Home Appliances",
+        "stock": 189,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 503,
+        "name": "Product 503",
+        "price": 739.98,
+        "category": "Stationery",
+        "stock": 131,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 504,
+        "name": "Product 504",
+        "price": 581.72,
+        "category": "Home Appliances",
+        "stock": 106,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 505,
+        "name": "Product 505",
+        "price": 731.07,
+        "category": "Furniture",
+        "stock": 85,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 506,
+        "name": "Product 506",
+        "price": 1562.93,
+        "category": "Home Appliances",
+        "stock": 34,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 507,
+        "name": "Product 507",
+        "price": 1589.15,
+        "category": "Accessories",
+        "stock": 42,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 508,
+        "name": "Product 508",
+        "price": 836.53,
+        "category": "Stationery",
+        "stock": 168,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 509,
+        "name": "Product 509",
+        "price": 706.95,
+        "category": "laptop",
+        "stock": 178,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 510,
+        "name": "Product 510",
+        "price": 1424.98,
+        "category": "Furniture",
+        "stock": 198,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 511,
+        "name": "Product 511",
+        "price": 1888.69,
+        "category": "Electronics",
+        "stock": 95,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 512,
+        "name": "Product 512",
+        "price": 845.55,
+        "category": "Accessories",
+        "stock": 38,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 513,
+        "name": "Product 513",
+        "price": 10.54,
+        "category": "Clothing",
+        "stock": 39,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 514,
+        "name": "Product 514",
+        "price": 213.33,
+        "category": "Accessories",
+        "stock": 139,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 515,
+        "name": "Product 515",
+        "price": 65.49,
+        "category": "Home Appliances",
+        "stock": 7,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 516,
+        "name": "Product 516",
+        "price": 1318.83,
+        "category": "Clothing",
+        "stock": 156,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 517,
+        "name": "Product 517",
+        "price": 399.72,
+        "category": "Accessories",
+        "stock": 92,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 518,
+        "name": "Product 518",
+        "price": 1896.59,
+        "category": "Stationery",
+        "stock": 86,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 519,
+        "name": "Product 519",
+        "price": 797.61,
+        "category": "Clothing",
+        "stock": 156,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 520,
+        "name": "Product 520",
+        "price": 42.92,
+        "category": "Clothing",
+        "stock": 194,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 521,
+        "name": "Product 521",
+        "price": 351.14,
+        "category": "Accessories",
+        "stock": 97,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 522,
+        "name": "Product 522",
+        "price": 1731.44,
+        "category": "Home Appliances",
+        "stock": 12,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 523,
+        "name": "Product 523",
+        "price": 1264.9,
+        "category": "Stationery",
+        "stock": 153,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 524,
+        "name": "Product 524",
+        "price": 1733.76,
+        "category": "Clothing",
+        "stock": 117,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 525,
+        "name": "Product 525",
+        "price": 1264.36,
+        "category": "Clothing",
+        "stock": 152,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 526,
+        "name": "Product 526",
+        "price": 798.94,
+        "category": "Electronics",
+        "stock": 182,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 527,
+        "name": "Product 527",
+        "price": 45.82,
+        "category": "Electronics",
+        "stock": 176,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 528,
+        "name": "Product 528",
+        "price": 287.13,
+        "category": "Stationery",
+        "stock": 44,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 529,
+        "name": "Product 529",
+        "price": 752.55,
+        "category": "laptop",
+        "stock": 190,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 530,
+        "name": "Product 530",
+        "price": 1549.81,
+        "category": "Furniture",
+        "stock": 13,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 531,
+        "name": "Product 531",
+        "price": 1594.95,
+        "category": "Stationery",
+        "stock": 139,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 532,
+        "name": "Product 532",
+        "price": 1565.2,
+        "category": "Clothing",
+        "stock": 8,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 533,
+        "name": "Product 533",
+        "price": 11.27,
+        "category": "Stationery",
+        "stock": 141,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 534,
+        "name": "Product 534",
+        "price": 1314.49,
+        "category": "Furniture",
+        "stock": 140,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 535,
+        "name": "Product 535",
+        "price": 1682.01,
+        "category": "Stationery",
+        "stock": 76,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 536,
+        "name": "Product 536",
+        "price": 485.83,
+        "category": "Stationery",
+        "stock": 73,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 537,
+        "name": "Product 537",
+        "price": 1717.63,
+        "category": "Accessories",
+        "stock": 40,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 538,
+        "name": "Product 538",
+        "price": 287.48,
+        "category": "Electronics",
+        "stock": 117,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 539,
+        "name": "Product 539",
+        "price": 1038.7,
+        "category": "Accessories",
+        "stock": 30,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 540,
+        "name": "Product 540",
+        "price": 963.37,
+        "category": "Clothing",
+        "stock": 38,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 541,
+        "name": "Product 541",
+        "price": 1824.15,
+        "category": "Electronics",
+        "stock": 108,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 542,
+        "name": "Product 542",
+        "price": 1308.98,
+        "category": "Home Appliances",
+        "stock": 136,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 543,
+        "name": "Product 543",
+        "price": 1430.04,
+        "category": "Stationery",
+        "stock": 104,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 544,
+        "name": "Product 544",
+        "price": 670.9,
+        "category": "Clothing",
+        "stock": 110,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 545,
+        "name": "Product 545",
+        "price": 1454.77,
+        "category": "Electronics",
+        "stock": 70,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 546,
+        "name": "Product 546",
+        "price": 722.62,
+        "category": "Clothing",
+        "stock": 191,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 547,
+        "name": "Product 547",
+        "price": 1183.54,
+        "category": "Electronics",
+        "stock": 53,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 548,
+        "name": "Product 548",
+        "price": 720.23,
+        "category": "laptop",
+        "stock": 158,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 549,
+        "name": "Product 549",
+        "price": 1907.72,
+        "category": "Electronics",
+        "stock": 80,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 550,
+        "name": "Product 550",
+        "price": 1961.58,
+        "category": "Home Appliances",
+        "stock": 27,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 551,
+        "name": "Product 551",
+        "price": 441.65,
+        "category": "Clothing",
+        "stock": 69,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 552,
+        "name": "Product 552",
+        "price": 287.03,
+        "category": "laptop",
+        "stock": 25,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 553,
+        "name": "Product 553",
+        "price": 636.8,
+        "category": "Electronics",
+        "stock": 40,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 554,
+        "name": "Product 554",
+        "price": 1332.14,
+        "category": "Home Appliances",
+        "stock": 137,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 555,
+        "name": "Product 555",
+        "price": 1206.5,
+        "category": "Accessories",
+        "stock": 163,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 556,
+        "name": "Product 556",
+        "price": 1589.4,
+        "category": "Electronics",
+        "stock": 167,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 557,
+        "name": "Product 557",
+        "price": 979.2,
+        "category": "Electronics",
+        "stock": 183,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 558,
+        "name": "Product 558",
+        "price": 1080.69,
+        "category": "Home Appliances",
+        "stock": 68,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 559,
+        "name": "Product 559",
+        "price": 244.06,
+        "category": "Accessories",
+        "stock": 29,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 560,
+        "name": "Product 560",
+        "price": 202.78,
+        "category": "Accessories",
+        "stock": 159,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 561,
+        "name": "Product 561",
+        "price": 56.82,
+        "category": "Electronics",
+        "stock": 129,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 562,
+        "name": "Product 562",
+        "price": 145.75,
+        "category": "Stationery",
+        "stock": 84,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 563,
+        "name": "Product 563",
+        "price": 345.26,
+        "category": "Clothing",
+        "stock": 76,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 564,
+        "name": "Product 564",
+        "price": 169.5,
+        "category": "laptop",
+        "stock": 158,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 565,
+        "name": "Product 565",
+        "price": 1844.52,
+        "category": "Accessories",
+        "stock": 174,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 566,
+        "name": "Product 566",
+        "price": 1164.92,
+        "category": "Stationery",
+        "stock": 77,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 567,
+        "name": "Product 567",
+        "price": 1980.91,
+        "category": "Furniture",
+        "stock": 183,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 568,
+        "name": "Product 568",
+        "price": 1507.37,
+        "category": "Furniture",
+        "stock": 42,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 569,
+        "name": "Product 569",
+        "price": 160.66,
+        "category": "Stationery",
+        "stock": 118,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 570,
+        "name": "Product 570",
+        "price": 301.0,
+        "category": "Clothing",
+        "stock": 75,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 571,
+        "name": "Product 571",
+        "price": 1649.8,
+        "category": "Electronics",
+        "stock": 114,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 572,
+        "name": "Product 572",
+        "price": 205.01,
+        "category": "Clothing",
+        "stock": 1,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 573,
+        "name": "Product 573",
+        "price": 1891.73,
+        "category": "Furniture",
+        "stock": 67,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 574,
+        "name": "Product 574",
+        "price": 1022.08,
+        "category": "laptop",
+        "stock": 32,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 575,
+        "name": "Product 575",
+        "price": 1555.45,
+        "category": "Accessories",
+        "stock": 130,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 576,
+        "name": "Product 576",
+        "price": 49.55,
+        "category": "Electronics",
+        "stock": 190,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 577,
+        "name": "Product 577",
+        "price": 1769.16,
+        "category": "Clothing",
+        "stock": 80,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 578,
+        "name": "Product 578",
+        "price": 1723.03,
+        "category": "Home Appliances",
+        "stock": 147,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 579,
+        "name": "Product 579",
+        "price": 105.59,
+        "category": "Home Appliances",
+        "stock": 60,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 580,
+        "name": "Product 580",
+        "price": 336.61,
+        "category": "laptop",
+        "stock": 146,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 581,
+        "name": "Product 581",
+        "price": 1583.76,
+        "category": "laptop",
+        "stock": 132,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 582,
+        "name": "Product 582",
+        "price": 1153.67,
+        "category": "Electronics",
+        "stock": 75,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 583,
+        "name": "Product 583",
+        "price": 1849.13,
+        "category": "Furniture",
+        "stock": 121,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 584,
+        "name": "Product 584",
+        "price": 1801.11,
+        "category": "Home Appliances",
+        "stock": 5,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 585,
+        "name": "Product 585",
+        "price": 558.37,
+        "category": "laptop",
+        "stock": 147,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 586,
+        "name": "Product 586",
+        "price": 1866.7,
+        "category": "Home Appliances",
+        "stock": 102,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 587,
+        "name": "Product 587",
+        "price": 452.72,
+        "category": "Home Appliances",
+        "stock": 74,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 588,
+        "name": "Product 588",
+        "price": 1115.58,
+        "category": "Clothing",
+        "stock": 81,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 589,
+        "name": "Product 589",
+        "price": 448.23,
+        "category": "Clothing",
+        "stock": 88,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 590,
+        "name": "Product 590",
+        "price": 1538.67,
+        "category": "Home Appliances",
+        "stock": 140,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 591,
+        "name": "Product 591",
+        "price": 390.73,
+        "category": "Electronics",
+        "stock": 62,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 592,
+        "name": "Product 592",
+        "price": 1718.93,
+        "category": "Furniture",
+        "stock": 0,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 593,
+        "name": "Product 593",
+        "price": 72.52,
+        "category": "Electronics",
+        "stock": 142,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 594,
+        "name": "Product 594",
+        "price": 1635.27,
+        "category": "Stationery",
+        "stock": 23,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 595,
+        "name": "Product 595",
+        "price": 896.64,
+        "category": "Electronics",
+        "stock": 83,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 596,
+        "name": "Product 596",
+        "price": 1486.78,
+        "category": "Furniture",
+        "stock": 175,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 597,
+        "name": "Product 597",
+        "price": 832.53,
+        "category": "Electronics",
+        "stock": 88,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 598,
+        "name": "Product 598",
+        "price": 1999.76,
+        "category": "Home Appliances",
+        "stock": 66,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 599,
+        "name": "Product 599",
+        "price": 157.99,
+        "category": "Clothing",
+        "stock": 120,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 600,
+        "name": "Product 600",
+        "price": 144.7,
+        "category": "Clothing",
+        "stock": 41,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 601,
+        "name": "Product 601",
+        "price": 1060.94,
+        "category": "laptop",
+        "stock": 77,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 602,
+        "name": "Product 602",
+        "price": 1436.12,
+        "category": "Home Appliances",
+        "stock": 26,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 603,
+        "name": "Product 603",
+        "price": 424.7,
+        "category": "Electronics",
+        "stock": 2,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 604,
+        "name": "Product 604",
+        "price": 1795.82,
+        "category": "laptop",
+        "stock": 46,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 605,
+        "name": "Product 605",
+        "price": 31.28,
+        "category": "Furniture",
+        "stock": 108,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 606,
+        "name": "Product 606",
+        "price": 796.53,
+        "category": "Clothing",
+        "stock": 37,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 607,
+        "name": "Product 607",
+        "price": 756.17,
+        "category": "Stationery",
+        "stock": 133,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 608,
+        "name": "Product 608",
+        "price": 686.14,
+        "category": "laptop",
+        "stock": 80,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 609,
+        "name": "Product 609",
+        "price": 1653.58,
+        "category": "Electronics",
+        "stock": 44,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 610,
+        "name": "Product 610",
+        "price": 191.49,
+        "category": "Stationery",
+        "stock": 47,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 611,
+        "name": "Product 611",
+        "price": 1275.69,
+        "category": "Accessories",
+        "stock": 0,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 612,
+        "name": "Product 612",
+        "price": 1392.09,
+        "category": "Accessories",
+        "stock": 196,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 613,
+        "name": "Product 613",
+        "price": 1668.3,
+        "category": "Stationery",
+        "stock": 169,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 614,
+        "name": "Product 614",
+        "price": 670.58,
+        "category": "Furniture",
+        "stock": 109,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 615,
+        "name": "Product 615",
+        "price": 449.13,
+        "category": "laptop",
+        "stock": 150,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 616,
+        "name": "Product 616",
+        "price": 487.32,
+        "category": "Home Appliances",
+        "stock": 10,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 617,
+        "name": "Product 617",
+        "price": 1966.64,
+        "category": "Accessories",
+        "stock": 112,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 618,
+        "name": "Product 618",
+        "price": 285.65,
+        "category": "Electronics",
+        "stock": 139,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 619,
+        "name": "Product 619",
+        "price": 1553.57,
+        "category": "Clothing",
+        "stock": 166,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 620,
+        "name": "Product 620",
+        "price": 915.74,
+        "category": "laptop",
+        "stock": 180,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 621,
+        "name": "Product 621",
+        "price": 1907.4,
+        "category": "Clothing",
+        "stock": 75,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 622,
+        "name": "Product 622",
+        "price": 493.05,
+        "category": "Furniture",
+        "stock": 120,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 623,
+        "name": "Product 623",
+        "price": 762.27,
+        "category": "Furniture",
+        "stock": 124,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 624,
+        "name": "Product 624",
+        "price": 1429.19,
+        "category": "Electronics",
+        "stock": 102,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 625,
+        "name": "Product 625",
+        "price": 365.15,
+        "category": "Electronics",
+        "stock": 9,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 626,
+        "name": "Product 626",
+        "price": 831.9,
+        "category": "Home Appliances",
+        "stock": 21,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 627,
+        "name": "Product 627",
+        "price": 1129.34,
+        "category": "Accessories",
+        "stock": 62,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 628,
+        "name": "Product 628",
+        "price": 1784.18,
+        "category": "Stationery",
+        "stock": 130,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 629,
+        "name": "Product 629",
+        "price": 982.81,
+        "category": "Stationery",
+        "stock": 144,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 630,
+        "name": "Product 630",
+        "price": 453.9,
+        "category": "Electronics",
+        "stock": 81,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 631,
+        "name": "Product 631",
+        "price": 1966.08,
+        "category": "Clothing",
+        "stock": 43,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 632,
+        "name": "Product 632",
+        "price": 827.31,
+        "category": "Electronics",
+        "stock": 38,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 633,
+        "name": "Product 633",
+        "price": 1882.69,
+        "category": "Electronics",
+        "stock": 190,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 634,
+        "name": "Product 634",
+        "price": 477.6,
+        "category": "Clothing",
+        "stock": 187,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 635,
+        "name": "Product 635",
+        "price": 500.91,
+        "category": "Stationery",
+        "stock": 171,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 636,
+        "name": "Product 636",
+        "price": 1399.67,
+        "category": "Furniture",
+        "stock": 128,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 637,
+        "name": "Product 637",
+        "price": 518.95,
+        "category": "Stationery",
+        "stock": 132,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 638,
+        "name": "Product 638",
+        "price": 922.05,
+        "category": "laptop",
+        "stock": 36,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 639,
+        "name": "Product 639",
+        "price": 1696.19,
+        "category": "Stationery",
+        "stock": 153,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 640,
+        "name": "Product 640",
+        "price": 1801.67,
+        "category": "Furniture",
+        "stock": 73,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 641,
+        "name": "Product 641",
+        "price": 1412.86,
+        "category": "Furniture",
+        "stock": 64,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 642,
+        "name": "Product 642",
+        "price": 1900.2,
+        "category": "Clothing",
+        "stock": 111,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 643,
+        "name": "Product 643",
+        "price": 1078.69,
+        "category": "Electronics",
+        "stock": 79,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 644,
+        "name": "Product 644",
+        "price": 856.08,
+        "category": "laptop",
+        "stock": 50,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 645,
+        "name": "Product 645",
+        "price": 1618.14,
+        "category": "laptop",
+        "stock": 88,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 646,
+        "name": "Product 646",
+        "price": 816.35,
+        "category": "Furniture",
+        "stock": 115,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 647,
+        "name": "Product 647",
+        "price": 1744.42,
+        "category": "Clothing",
+        "stock": 192,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 648,
+        "name": "Product 648",
+        "price": 1923.02,
+        "category": "Furniture",
+        "stock": 90,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 649,
+        "name": "Product 649",
+        "price": 275.65,
+        "category": "Stationery",
+        "stock": 33,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 650,
+        "name": "Product 650",
+        "price": 1835.21,
+        "category": "Stationery",
+        "stock": 126,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 651,
+        "name": "Product 651",
+        "price": 1908.52,
+        "category": "Stationery",
+        "stock": 82,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 652,
+        "name": "Product 652",
+        "price": 1723.6,
+        "category": "Clothing",
+        "stock": 129,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 653,
+        "name": "Product 653",
+        "price": 443.14,
+        "category": "Home Appliances",
+        "stock": 54,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 654,
+        "name": "Product 654",
+        "price": 287.29,
+        "category": "Electronics",
+        "stock": 27,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 655,
+        "name": "Product 655",
+        "price": 737.8,
+        "category": "Stationery",
+        "stock": 110,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 656,
+        "name": "Product 656",
+        "price": 1457.56,
+        "category": "Home Appliances",
+        "stock": 93,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 657,
+        "name": "Product 657",
+        "price": 1681.6,
+        "category": "Home Appliances",
+        "stock": 147,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 658,
+        "name": "Product 658",
+        "price": 1812.19,
+        "category": "Electronics",
+        "stock": 117,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 659,
+        "name": "Product 659",
+        "price": 937.52,
+        "category": "Electronics",
+        "stock": 14,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 660,
+        "name": "Product 660",
+        "price": 1552.59,
+        "category": "Accessories",
+        "stock": 178,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 661,
+        "name": "Product 661",
+        "price": 1880.36,
+        "category": "Stationery",
+        "stock": 15,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 662,
+        "name": "Product 662",
+        "price": 518.13,
+        "category": "Accessories",
+        "stock": 26,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 663,
+        "name": "Product 663",
+        "price": 1070.8,
+        "category": "Electronics",
+        "stock": 34,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 664,
+        "name": "Product 664",
+        "price": 1088.71,
+        "category": "Home Appliances",
+        "stock": 60,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 665,
+        "name": "Product 665",
+        "price": 1476.06,
+        "category": "Stationery",
+        "stock": 177,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 666,
+        "name": "Product 666",
+        "price": 1279.49,
+        "category": "laptop",
+        "stock": 8,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 667,
+        "name": "Product 667",
+        "price": 860.22,
+        "category": "Furniture",
+        "stock": 198,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 668,
+        "name": "Product 668",
+        "price": 116.64,
+        "category": "Stationery",
+        "stock": 144,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 669,
+        "name": "Product 669",
+        "price": 1162.42,
+        "category": "Electronics",
+        "stock": 52,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 670,
+        "name": "Product 670",
+        "price": 1737.93,
+        "category": "Furniture",
+        "stock": 20,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 671,
+        "name": "Product 671",
+        "price": 1572.86,
+        "category": "Clothing",
+        "stock": 127,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 672,
+        "name": "Product 672",
+        "price": 296.73,
+        "category": "Electronics",
+        "stock": 125,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 673,
+        "name": "Product 673",
+        "price": 116.71,
+        "category": "Home Appliances",
+        "stock": 184,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 674,
+        "name": "Product 674",
+        "price": 396.02,
+        "category": "Home Appliances",
+        "stock": 83,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 675,
+        "name": "Product 675",
+        "price": 1899.15,
+        "category": "Accessories",
+        "stock": 58,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 676,
+        "name": "Product 676",
+        "price": 82.77,
+        "category": "laptop",
+        "stock": 193,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 677,
+        "name": "Product 677",
+        "price": 1805.16,
+        "category": "Electronics",
+        "stock": 162,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 678,
+        "name": "Product 678",
+        "price": 253.02,
+        "category": "Home Appliances",
+        "stock": 52,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 679,
+        "name": "Product 679",
+        "price": 1278.19,
+        "category": "laptop",
+        "stock": 40,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 680,
+        "name": "Product 680",
+        "price": 1448.55,
+        "category": "Stationery",
+        "stock": 19,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 681,
+        "name": "Product 681",
+        "price": 1593.46,
+        "category": "Stationery",
+        "stock": 125,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 682,
+        "name": "Product 682",
+        "price": 826.14,
+        "category": "Furniture",
+        "stock": 84,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 683,
+        "name": "Product 683",
+        "price": 1486.49,
+        "category": "Clothing",
+        "stock": 123,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 684,
+        "name": "Product 684",
+        "price": 1619.13,
+        "category": "laptop",
+        "stock": 104,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 685,
+        "name": "Product 685",
+        "price": 1569.81,
+        "category": "Clothing",
+        "stock": 176,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 686,
+        "name": "Product 686",
+        "price": 1153.61,
+        "category": "laptop",
+        "stock": 120,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 687,
+        "name": "Product 687",
+        "price": 1972.6,
+        "category": "Furniture",
+        "stock": 73,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 688,
+        "name": "Product 688",
+        "price": 274.66,
+        "category": "Electronics",
+        "stock": 164,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 689,
+        "name": "Product 689",
+        "price": 159.47,
+        "category": "Furniture",
+        "stock": 110,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 690,
+        "name": "Product 690",
+        "price": 1244.51,
+        "category": "Stationery",
+        "stock": 189,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 691,
+        "name": "Product 691",
+        "price": 553.16,
+        "category": "Electronics",
+        "stock": 122,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 692,
+        "name": "Product 692",
+        "price": 1759.91,
+        "category": "Accessories",
+        "stock": 51,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 693,
+        "name": "Product 693",
+        "price": 470.9,
+        "category": "Home Appliances",
+        "stock": 72,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 694,
+        "name": "Product 694",
+        "price": 497.87,
+        "category": "Accessories",
+        "stock": 140,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 695,
+        "name": "Product 695",
+        "price": 731.82,
+        "category": "Furniture",
+        "stock": 125,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 696,
+        "name": "Product 696",
+        "price": 976.58,
+        "category": "Home Appliances",
+        "stock": 36,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 697,
+        "name": "Product 697",
+        "price": 525.2,
+        "category": "Accessories",
+        "stock": 25,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 698,
+        "name": "Product 698",
+        "price": 220.14,
+        "category": "Stationery",
+        "stock": 57,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 699,
+        "name": "Product 699",
+        "price": 769.49,
+        "category": "Furniture",
+        "stock": 91,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 700,
+        "name": "Product 700",
+        "price": 17.06,
+        "category": "Clothing",
+        "stock": 112,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 701,
+        "name": "Product 701",
+        "price": 609.52,
+        "category": "Furniture",
+        "stock": 2,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 702,
+        "name": "Product 702",
+        "price": 908.12,
+        "category": "Clothing",
+        "stock": 196,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 703,
+        "name": "Product 703",
+        "price": 1935.06,
+        "category": "Clothing",
+        "stock": 119,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 704,
+        "name": "Product 704",
+        "price": 871.95,
+        "category": "Clothing",
+        "stock": 75,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 705,
+        "name": "Product 705",
+        "price": 876.05,
+        "category": "Accessories",
+        "stock": 43,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 706,
+        "name": "Product 706",
+        "price": 1120.51,
+        "category": "laptop",
+        "stock": 187,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 707,
+        "name": "Product 707",
+        "price": 1153.33,
+        "category": "Electronics",
+        "stock": 25,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 708,
+        "name": "Product 708",
+        "price": 376.9,
+        "category": "Furniture",
+        "stock": 69,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 709,
+        "name": "Product 709",
+        "price": 318.22,
+        "category": "Accessories",
+        "stock": 180,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 710,
+        "name": "Product 710",
+        "price": 333.14,
+        "category": "Electronics",
+        "stock": 142,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 711,
+        "name": "Product 711",
+        "price": 1506.12,
+        "category": "Electronics",
+        "stock": 42,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 712,
+        "name": "Product 712",
+        "price": 1098.29,
+        "category": "Stationery",
+        "stock": 174,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 713,
+        "name": "Product 713",
+        "price": 254.9,
+        "category": "Electronics",
+        "stock": 164,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 714,
+        "name": "Product 714",
+        "price": 326.65,
+        "category": "Clothing",
+        "stock": 48,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 715,
+        "name": "Product 715",
+        "price": 1556.36,
+        "category": "laptop",
+        "stock": 50,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 716,
+        "name": "Product 716",
+        "price": 1249.44,
+        "category": "Accessories",
+        "stock": 157,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 717,
+        "name": "Product 717",
+        "price": 1954.23,
+        "category": "Furniture",
+        "stock": 18,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 718,
+        "name": "Product 718",
+        "price": 1441.36,
+        "category": "Stationery",
+        "stock": 86,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 719,
+        "name": "Product 719",
+        "price": 172.86,
+        "category": "Home Appliances",
+        "stock": 44,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 720,
+        "name": "Product 720",
+        "price": 690.63,
+        "category": "laptop",
+        "stock": 156,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 721,
+        "name": "Product 721",
+        "price": 879.49,
+        "category": "Electronics",
+        "stock": 110,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 722,
+        "name": "Product 722",
+        "price": 693.37,
+        "category": "laptop",
+        "stock": 141,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 723,
+        "name": "Product 723",
+        "price": 1656.3,
+        "category": "Accessories",
+        "stock": 86,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 724,
+        "name": "Product 724",
+        "price": 663.03,
+        "category": "Electronics",
+        "stock": 26,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 725,
+        "name": "Product 725",
+        "price": 1603.31,
+        "category": "laptop",
+        "stock": 137,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 726,
+        "name": "Product 726",
+        "price": 436.71,
+        "category": "Electronics",
+        "stock": 140,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 727,
+        "name": "Product 727",
+        "price": 1204.14,
+        "category": "Electronics",
+        "stock": 152,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 728,
+        "name": "Product 728",
+        "price": 547.07,
+        "category": "Stationery",
+        "stock": 182,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 729,
+        "name": "Product 729",
+        "price": 273.42,
+        "category": "laptop",
+        "stock": 112,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 730,
+        "name": "Product 730",
+        "price": 837.5,
+        "category": "Clothing",
+        "stock": 108,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 731,
+        "name": "Product 731",
+        "price": 1906.73,
+        "category": "Accessories",
+        "stock": 189,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 732,
+        "name": "Product 732",
+        "price": 1890.84,
+        "category": "Electronics",
+        "stock": 63,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 733,
+        "name": "Product 733",
+        "price": 1453.02,
+        "category": "Home Appliances",
+        "stock": 199,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 734,
+        "name": "Product 734",
+        "price": 292.21,
+        "category": "Clothing",
+        "stock": 196,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 735,
+        "name": "Product 735",
+        "price": 500.0,
+        "category": "Stationery",
+        "stock": 24,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 736,
+        "name": "Product 736",
+        "price": 1465.89,
+        "category": "Home Appliances",
+        "stock": 123,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 737,
+        "name": "Product 737",
+        "price": 635.65,
+        "category": "Furniture",
+        "stock": 103,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 738,
+        "name": "Product 738",
+        "price": 762.39,
+        "category": "Furniture",
+        "stock": 161,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 739,
+        "name": "Product 739",
+        "price": 1589.48,
+        "category": "Clothing",
+        "stock": 14,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 740,
+        "name": "Product 740",
+        "price": 1929.97,
+        "category": "Accessories",
+        "stock": 132,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 741,
+        "name": "Product 741",
+        "price": 1405.89,
+        "category": "Stationery",
+        "stock": 62,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 742,
+        "name": "Product 742",
+        "price": 75.16,
+        "category": "Furniture",
+        "stock": 98,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 743,
+        "name": "Product 743",
+        "price": 347.08,
+        "category": "Stationery",
+        "stock": 26,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 744,
+        "name": "Product 744",
+        "price": 1720.29,
+        "category": "Clothing",
+        "stock": 139,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 745,
+        "name": "Product 745",
+        "price": 346.96,
+        "category": "Furniture",
+        "stock": 158,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 746,
+        "name": "Product 746",
+        "price": 1181.54,
+        "category": "Accessories",
+        "stock": 197,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 747,
+        "name": "Product 747",
+        "price": 628.18,
+        "category": "laptop",
+        "stock": 184,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 748,
+        "name": "Product 748",
+        "price": 423.06,
+        "category": "laptop",
+        "stock": 132,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 749,
+        "name": "Product 749",
+        "price": 1987.69,
+        "category": "Furniture",
+        "stock": 184,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 750,
+        "name": "Product 750",
+        "price": 524.04,
+        "category": "Clothing",
+        "stock": 23,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 751,
+        "name": "Product 751",
+        "price": 1196.89,
+        "category": "Home Appliances",
+        "stock": 187,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 752,
+        "name": "Product 752",
+        "price": 541.28,
+        "category": "Accessories",
+        "stock": 15,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 753,
+        "name": "Product 753",
+        "price": 1064.22,
+        "category": "laptop",
+        "stock": 33,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 754,
+        "name": "Product 754",
+        "price": 1693.48,
+        "category": "Accessories",
+        "stock": 154,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 755,
+        "name": "Product 755",
+        "price": 1868.68,
+        "category": "Accessories",
+        "stock": 3,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 756,
+        "name": "Product 756",
+        "price": 1560.19,
+        "category": "Clothing",
+        "stock": 183,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 757,
+        "name": "Product 757",
+        "price": 230.54,
+        "category": "Home Appliances",
+        "stock": 111,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 758,
+        "name": "Product 758",
+        "price": 1051.91,
+        "category": "Furniture",
+        "stock": 67,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 759,
+        "name": "Product 759",
+        "price": 751.78,
+        "category": "Home Appliances",
+        "stock": 137,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 760,
+        "name": "Product 760",
+        "price": 1426.52,
+        "category": "Electronics",
+        "stock": 5,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 761,
+        "name": "Product 761",
+        "price": 122.36,
+        "category": "laptop",
+        "stock": 194,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 762,
+        "name": "Product 762",
+        "price": 1511.99,
+        "category": "Clothing",
+        "stock": 158,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 763,
+        "name": "Product 763",
+        "price": 461.74,
+        "category": "Electronics",
+        "stock": 175,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 764,
+        "name": "Product 764",
+        "price": 1794.29,
+        "category": "Electronics",
+        "stock": 111,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 765,
+        "name": "Product 765",
+        "price": 1499.39,
+        "category": "Furniture",
+        "stock": 181,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 766,
+        "name": "Product 766",
+        "price": 751.83,
+        "category": "Electronics",
+        "stock": 44,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 767,
+        "name": "Product 767",
+        "price": 236.32,
+        "category": "Accessories",
+        "stock": 64,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 768,
+        "name": "Product 768",
+        "price": 580.18,
+        "category": "Home Appliances",
+        "stock": 142,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 769,
+        "name": "Product 769",
+        "price": 1111.81,
+        "category": "Furniture",
+        "stock": 136,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 770,
+        "name": "Product 770",
+        "price": 1424.65,
+        "category": "Stationery",
+        "stock": 198,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 771,
+        "name": "Product 771",
+        "price": 792.17,
+        "category": "Clothing",
+        "stock": 4,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 772,
+        "name": "Product 772",
+        "price": 333.26,
+        "category": "laptop",
+        "stock": 32,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 773,
+        "name": "Product 773",
+        "price": 1459.07,
+        "category": "laptop",
+        "stock": 155,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 774,
+        "name": "Product 774",
+        "price": 1414.67,
+        "category": "laptop",
+        "stock": 110,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 775,
+        "name": "Product 775",
+        "price": 362.23,
+        "category": "Clothing",
+        "stock": 104,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 776,
+        "name": "Product 776",
+        "price": 1150.03,
+        "category": "Furniture",
+        "stock": 192,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 777,
+        "name": "Product 777",
+        "price": 1611.85,
+        "category": "Accessories",
+        "stock": 18,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 778,
+        "name": "Product 778",
+        "price": 1915.93,
+        "category": "Electronics",
+        "stock": 9,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 779,
+        "name": "Product 779",
+        "price": 94.58,
+        "category": "laptop",
+        "stock": 27,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 780,
+        "name": "Product 780",
+        "price": 597.94,
+        "category": "laptop",
+        "stock": 53,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 781,
+        "name": "Product 781",
+        "price": 200.66,
+        "category": "Furniture",
+        "stock": 28,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 782,
+        "name": "Product 782",
+        "price": 963.62,
+        "category": "Home Appliances",
+        "stock": 16,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 783,
+        "name": "Product 783",
+        "price": 871.73,
+        "category": "Accessories",
+        "stock": 8,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 784,
+        "name": "Product 784",
+        "price": 1086.87,
+        "category": "Accessories",
+        "stock": 85,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 785,
+        "name": "Product 785",
+        "price": 1578.81,
+        "category": "Electronics",
+        "stock": 196,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 786,
+        "name": "Product 786",
+        "price": 817.42,
+        "category": "laptop",
+        "stock": 65,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 787,
+        "name": "Product 787",
+        "price": 234.85,
+        "category": "Clothing",
+        "stock": 19,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 788,
+        "name": "Product 788",
+        "price": 1518.39,
+        "category": "Stationery",
+        "stock": 27,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 789,
+        "name": "Product 789",
+        "price": 1034.75,
+        "category": "Accessories",
+        "stock": 61,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 790,
+        "name": "Product 790",
+        "price": 1727.7,
+        "category": "Furniture",
+        "stock": 9,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 791,
+        "name": "Product 791",
+        "price": 490.95,
+        "category": "Electronics",
+        "stock": 155,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 792,
+        "name": "Product 792",
+        "price": 1029.99,
+        "category": "laptop",
+        "stock": 26,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 793,
+        "name": "Product 793",
+        "price": 1091.19,
+        "category": "Electronics",
+        "stock": 169,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 794,
+        "name": "Product 794",
+        "price": 1645.53,
+        "category": "Clothing",
+        "stock": 127,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 795,
+        "name": "Product 795",
+        "price": 605.61,
+        "category": "Electronics",
+        "stock": 6,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 796,
+        "name": "Product 796",
+        "price": 1538.63,
+        "category": "Home Appliances",
+        "stock": 143,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 797,
+        "name": "Product 797",
+        "price": 913.97,
+        "category": "Home Appliances",
+        "stock": 59,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 798,
+        "name": "Product 798",
+        "price": 1818.7,
+        "category": "Stationery",
+        "stock": 38,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 799,
+        "name": "Product 799",
+        "price": 778.78,
+        "category": "Accessories",
+        "stock": 85,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 800,
+        "name": "Product 800",
+        "price": 1632.24,
+        "category": "Home Appliances",
+        "stock": 11,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 801,
+        "name": "Product 801",
+        "price": 1343.72,
+        "category": "Clothing",
+        "stock": 189,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 802,
+        "name": "Product 802",
+        "price": 467.0,
+        "category": "Clothing",
+        "stock": 185,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 803,
+        "name": "Product 803",
+        "price": 379.45,
+        "category": "Clothing",
+        "stock": 16,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 804,
+        "name": "Product 804",
+        "price": 392.29,
+        "category": "laptop",
+        "stock": 171,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 805,
+        "name": "Product 805",
+        "price": 5.4,
+        "category": "Stationery",
+        "stock": 1,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 806,
+        "name": "Product 806",
+        "price": 686.69,
+        "category": "Accessories",
+        "stock": 193,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 807,
+        "name": "Product 807",
+        "price": 1516.41,
+        "category": "laptop",
+        "stock": 26,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 808,
+        "name": "Product 808",
+        "price": 1719.12,
+        "category": "Accessories",
+        "stock": 59,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 809,
+        "name": "Product 809",
+        "price": 1076.77,
+        "category": "Clothing",
+        "stock": 17,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 810,
+        "name": "Product 810",
+        "price": 1646.4,
+        "category": "Furniture",
+        "stock": 135,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 811,
+        "name": "Product 811",
+        "price": 236.46,
+        "category": "Clothing",
+        "stock": 143,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 812,
+        "name": "Product 812",
+        "price": 1968.26,
+        "category": "Furniture",
+        "stock": 95,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 813,
+        "name": "Product 813",
+        "price": 1918.91,
+        "category": "Home Appliances",
+        "stock": 102,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 814,
+        "name": "Product 814",
+        "price": 618.74,
+        "category": "Stationery",
+        "stock": 78,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 815,
+        "name": "Product 815",
+        "price": 302.97,
+        "category": "Electronics",
+        "stock": 133,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 816,
+        "name": "Product 816",
+        "price": 1494.7,
+        "category": "Electronics",
+        "stock": 5,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 817,
+        "name": "Product 817",
+        "price": 679.87,
+        "category": "laptop",
+        "stock": 186,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 818,
+        "name": "Product 818",
+        "price": 1653.32,
+        "category": "Accessories",
+        "stock": 192,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 819,
+        "name": "Product 819",
+        "price": 49.76,
+        "category": "Furniture",
+        "stock": 50,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 820,
+        "name": "Product 820",
+        "price": 1516.84,
+        "category": "Accessories",
+        "stock": 177,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 821,
+        "name": "Product 821",
+        "price": 1037.3,
+        "category": "Furniture",
+        "stock": 160,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 822,
+        "name": "Product 822",
+        "price": 228.77,
+        "category": "Home Appliances",
+        "stock": 74,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 823,
+        "name": "Product 823",
+        "price": 58.71,
+        "category": "Stationery",
+        "stock": 60,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 824,
+        "name": "Product 824",
+        "price": 1082.03,
+        "category": "Furniture",
+        "stock": 49,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 825,
+        "name": "Product 825",
+        "price": 787.81,
+        "category": "Accessories",
+        "stock": 13,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 826,
+        "name": "Product 826",
+        "price": 422.89,
+        "category": "laptop",
+        "stock": 176,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 827,
+        "name": "Product 827",
+        "price": 1497.9,
+        "category": "laptop",
+        "stock": 195,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 828,
+        "name": "Product 828",
+        "price": 1858.49,
+        "category": "Electronics",
+        "stock": 73,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 829,
+        "name": "Product 829",
+        "price": 622.47,
+        "category": "Home Appliances",
+        "stock": 84,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 830,
+        "name": "Product 830",
+        "price": 981.97,
+        "category": "Accessories",
+        "stock": 33,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 831,
+        "name": "Product 831",
+        "price": 1985.03,
+        "category": "Electronics",
+        "stock": 152,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 832,
+        "name": "Product 832",
+        "price": 659.51,
+        "category": "Accessories",
+        "stock": 80,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 833,
+        "name": "Product 833",
+        "price": 291.58,
+        "category": "Stationery",
+        "stock": 77,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 834,
+        "name": "Product 834",
+        "price": 894.82,
+        "category": "Electronics",
+        "stock": 179,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 835,
+        "name": "Product 835",
+        "price": 1299.17,
+        "category": "Stationery",
+        "stock": 151,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 836,
+        "name": "Product 836",
+        "price": 1657.92,
+        "category": "Furniture",
+        "stock": 115,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 837,
+        "name": "Product 837",
+        "price": 1941.02,
+        "category": "Accessories",
+        "stock": 164,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 838,
+        "name": "Product 838",
+        "price": 1596.64,
+        "category": "Furniture",
+        "stock": 178,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 839,
+        "name": "Product 839",
+        "price": 1587.74,
+        "category": "Home Appliances",
+        "stock": 50,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 840,
+        "name": "Product 840",
+        "price": 499.44,
+        "category": "Clothing",
+        "stock": 112,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 841,
+        "name": "Product 841",
+        "price": 593.69,
+        "category": "Stationery",
+        "stock": 90,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 842,
+        "name": "Product 842",
+        "price": 1340.27,
+        "category": "Electronics",
+        "stock": 66,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 843,
+        "name": "Product 843",
+        "price": 624.57,
+        "category": "Accessories",
+        "stock": 108,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 844,
+        "name": "Product 844",
+        "price": 1407.3,
+        "category": "Electronics",
+        "stock": 157,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 845,
+        "name": "Product 845",
+        "price": 864.64,
+        "category": "Accessories",
+        "stock": 55,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 846,
+        "name": "Product 846",
+        "price": 1818.74,
+        "category": "laptop",
+        "stock": 83,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 847,
+        "name": "Product 847",
+        "price": 394.06,
+        "category": "Stationery",
+        "stock": 137,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 848,
+        "name": "Product 848",
+        "price": 1998.3,
+        "category": "Home Appliances",
+        "stock": 114,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 849,
+        "name": "Product 849",
+        "price": 774.26,
+        "category": "Furniture",
+        "stock": 76,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 850,
+        "name": "Product 850",
+        "price": 1337.81,
+        "category": "Clothing",
+        "stock": 10,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 851,
+        "name": "Product 851",
+        "price": 1054.53,
+        "category": "laptop",
+        "stock": 35,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 852,
+        "name": "Product 852",
+        "price": 1504.51,
+        "category": "Accessories",
+        "stock": 143,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 853,
+        "name": "Product 853",
+        "price": 995.58,
+        "category": "Accessories",
+        "stock": 124,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 854,
+        "name": "Product 854",
+        "price": 1330.53,
+        "category": "Accessories",
+        "stock": 172,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 855,
+        "name": "Product 855",
+        "price": 1028.72,
+        "category": "laptop",
+        "stock": 178,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 856,
+        "name": "Product 856",
+        "price": 1413.58,
+        "category": "Electronics",
+        "stock": 108,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 857,
+        "name": "Product 857",
+        "price": 701.03,
+        "category": "Home Appliances",
+        "stock": 121,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 858,
+        "name": "Product 858",
+        "price": 417.89,
+        "category": "Accessories",
+        "stock": 199,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 859,
+        "name": "Product 859",
+        "price": 981.3,
+        "category": "Electronics",
+        "stock": 47,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 860,
+        "name": "Product 860",
+        "price": 1989.6,
+        "category": "Stationery",
+        "stock": 1,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 861,
+        "name": "Product 861",
+        "price": 1626.63,
+        "category": "Stationery",
+        "stock": 46,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 862,
+        "name": "Product 862",
+        "price": 1233.15,
+        "category": "Home Appliances",
+        "stock": 28,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 863,
+        "name": "Product 863",
+        "price": 1760.34,
+        "category": "Stationery",
+        "stock": 135,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 864,
+        "name": "Product 864",
+        "price": 976.35,
+        "category": "Stationery",
+        "stock": 143,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 865,
+        "name": "Product 865",
+        "price": 1523.07,
+        "category": "Furniture",
+        "stock": 130,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 866,
+        "name": "Product 866",
+        "price": 465.76,
+        "category": "Clothing",
+        "stock": 187,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 867,
+        "name": "Product 867",
+        "price": 1694.23,
+        "category": "Furniture",
+        "stock": 65,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 868,
+        "name": "Product 868",
+        "price": 1979.66,
+        "category": "Electronics",
+        "stock": 139,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 869,
+        "name": "Product 869",
+        "price": 675.43,
+        "category": "laptop",
+        "stock": 174,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 870,
+        "name": "Product 870",
+        "price": 114.17,
+        "category": "Home Appliances",
+        "stock": 196,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 871,
+        "name": "Product 871",
+        "price": 498.12,
+        "category": "laptop",
+        "stock": 140,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 872,
+        "name": "Product 872",
+        "price": 279.54,
+        "category": "Home Appliances",
+        "stock": 142,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 873,
+        "name": "Product 873",
+        "price": 1113.37,
+        "category": "Home Appliances",
+        "stock": 120,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 874,
+        "name": "Product 874",
+        "price": 642.65,
+        "category": "Home Appliances",
+        "stock": 131,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 875,
+        "name": "Product 875",
+        "price": 408.9,
+        "category": "Accessories",
+        "stock": 143,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 876,
+        "name": "Product 876",
+        "price": 1096.32,
+        "category": "Accessories",
+        "stock": 87,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 877,
+        "name": "Product 877",
+        "price": 631.31,
+        "category": "Home Appliances",
+        "stock": 143,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 878,
+        "name": "Product 878",
+        "price": 1523.5,
+        "category": "Furniture",
+        "stock": 93,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 879,
+        "name": "Product 879",
+        "price": 47.08,
+        "category": "Stationery",
+        "stock": 95,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 880,
+        "name": "Product 880",
+        "price": 1655.17,
+        "category": "Furniture",
+        "stock": 152,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 881,
+        "name": "Product 881",
+        "price": 393.56,
+        "category": "Clothing",
+        "stock": 83,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 882,
+        "name": "Product 882",
+        "price": 1432.26,
+        "category": "laptop",
+        "stock": 3,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 883,
+        "name": "Product 883",
+        "price": 1182.22,
+        "category": "Electronics",
+        "stock": 47,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 884,
+        "name": "Product 884",
+        "price": 1778.59,
+        "category": "Accessories",
+        "stock": 98,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 885,
+        "name": "Product 885",
+        "price": 470.01,
+        "category": "Accessories",
+        "stock": 95,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 886,
+        "name": "Product 886",
+        "price": 191.48,
+        "category": "Accessories",
+        "stock": 92,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 887,
+        "name": "Product 887",
+        "price": 1009.14,
+        "category": "Electronics",
+        "stock": 193,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 888,
+        "name": "Product 888",
+        "price": 994.84,
+        "category": "Home Appliances",
+        "stock": 1,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 889,
+        "name": "Product 889",
+        "price": 1954.21,
+        "category": "laptop",
+        "stock": 117,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 890,
+        "name": "Product 890",
+        "price": 252.48,
+        "category": "Accessories",
+        "stock": 143,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 891,
+        "name": "Product 891",
+        "price": 783.91,
+        "category": "Clothing",
+        "stock": 62,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 892,
+        "name": "Product 892",
+        "price": 783.57,
+        "category": "Stationery",
+        "stock": 182,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 893,
+        "name": "Product 893",
+        "price": 1712.53,
+        "category": "Electronics",
+        "stock": 197,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 894,
+        "name": "Product 894",
+        "price": 485.33,
+        "category": "Accessories",
+        "stock": 159,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 895,
+        "name": "Product 895",
+        "price": 1806.34,
+        "category": "Home Appliances",
+        "stock": 37,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 896,
+        "name": "Product 896",
+        "price": 299.5,
+        "category": "Furniture",
+        "stock": 142,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 897,
+        "name": "Product 897",
+        "price": 1782.13,
+        "category": "Electronics",
+        "stock": 10,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 898,
+        "name": "Product 898",
+        "price": 1778.43,
+        "category": "Home Appliances",
+        "stock": 171,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 899,
+        "name": "Product 899",
+        "price": 514.98,
+        "category": "Accessories",
+        "stock": 92,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 900,
+        "name": "Product 900",
+        "price": 555.1,
+        "category": "Accessories",
+        "stock": 21,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 901,
+        "name": "Product 901",
+        "price": 62.79,
+        "category": "Stationery",
+        "stock": 187,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 902,
+        "name": "Product 902",
+        "price": 211.61,
+        "category": "Accessories",
+        "stock": 123,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 903,
+        "name": "Product 903",
+        "price": 1420.45,
+        "category": "Clothing",
+        "stock": 25,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 904,
+        "name": "Product 904",
+        "price": 726.4,
+        "category": "Accessories",
+        "stock": 75,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 905,
+        "name": "Product 905",
+        "price": 688.12,
+        "category": "Home Appliances",
+        "stock": 57,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 906,
+        "name": "Product 906",
+        "price": 1991.71,
+        "category": "Home Appliances",
+        "stock": 65,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 907,
+        "name": "Product 907",
+        "price": 416.0,
+        "category": "Accessories",
+        "stock": 61,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 908,
+        "name": "Product 908",
+        "price": 1379.4,
+        "category": "Furniture",
+        "stock": 116,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 909,
+        "name": "Product 909",
+        "price": 468.64,
+        "category": "Accessories",
+        "stock": 126,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 910,
+        "name": "Product 910",
+        "price": 1545.82,
+        "category": "Accessories",
+        "stock": 5,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 911,
+        "name": "Product 911",
+        "price": 1499.93,
+        "category": "Accessories",
+        "stock": 92,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 912,
+        "name": "Product 912",
+        "price": 1807.56,
+        "category": "Stationery",
+        "stock": 105,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 913,
+        "name": "Product 913",
+        "price": 1453.59,
+        "category": "Home Appliances",
+        "stock": 191,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 914,
+        "name": "Product 914",
+        "price": 1021.87,
+        "category": "Accessories",
+        "stock": 181,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 915,
+        "name": "Product 915",
+        "price": 1533.91,
+        "category": "Electronics",
+        "stock": 12,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 916,
+        "name": "Product 916",
+        "price": 849.29,
+        "category": "laptop",
+        "stock": 33,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 917,
+        "name": "Product 917",
+        "price": 467.58,
+        "category": "Electronics",
+        "stock": 119,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 918,
+        "name": "Product 918",
+        "price": 1596.41,
+        "category": "Clothing",
+        "stock": 44,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 919,
+        "name": "Product 919",
+        "price": 1825.83,
+        "category": "Accessories",
+        "stock": 162,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 920,
+        "name": "Product 920",
+        "price": 820.19,
+        "category": "Accessories",
+        "stock": 47,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 921,
+        "name": "Product 921",
+        "price": 1584.52,
+        "category": "Electronics",
+        "stock": 188,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 922,
+        "name": "Product 922",
+        "price": 611.04,
+        "category": "Stationery",
+        "stock": 120,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 923,
+        "name": "Product 923",
+        "price": 1783.01,
+        "category": "Furniture",
+        "stock": 192,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 924,
+        "name": "Product 924",
+        "price": 447.48,
+        "category": "Home Appliances",
+        "stock": 13,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 925,
+        "name": "Product 925",
+        "price": 44.93,
+        "category": "Furniture",
+        "stock": 24,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 926,
+        "name": "Product 926",
+        "price": 1871.68,
+        "category": "Electronics",
+        "stock": 123,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 927,
+        "name": "Product 927",
+        "price": 1688.57,
+        "category": "Electronics",
+        "stock": 29,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 928,
+        "name": "Product 928",
+        "price": 188.32,
+        "category": "Accessories",
+        "stock": 184,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 929,
+        "name": "Product 929",
+        "price": 307.0,
+        "category": "Electronics",
+        "stock": 95,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 930,
+        "name": "Product 930",
+        "price": 1083.74,
+        "category": "laptop",
+        "stock": 41,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 931,
+        "name": "Product 931",
+        "price": 218.47,
+        "category": "Accessories",
+        "stock": 88,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 932,
+        "name": "Product 932",
+        "price": 1241.94,
+        "category": "Electronics",
+        "stock": 183,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 933,
+        "name": "Product 933",
+        "price": 1707.52,
+        "category": "Electronics",
+        "stock": 92,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 934,
+        "name": "Product 934",
+        "price": 1890.0,
+        "category": "Accessories",
+        "stock": 40,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 935,
+        "name": "Product 935",
+        "price": 1327.79,
+        "category": "Home Appliances",
+        "stock": 88,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 936,
+        "name": "Product 936",
+        "price": 683.51,
+        "category": "Electronics",
+        "stock": 132,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 937,
+        "name": "Product 937",
+        "price": 742.65,
+        "category": "Stationery",
+        "stock": 117,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 938,
+        "name": "Product 938",
+        "price": 592.75,
+        "category": "Clothing",
+        "stock": 191,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 939,
+        "name": "Product 939",
+        "price": 1749.81,
+        "category": "Clothing",
+        "stock": 41,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 940,
+        "name": "Product 940",
+        "price": 844.46,
+        "category": "Clothing",
+        "stock": 105,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 941,
+        "name": "Product 941",
+        "price": 1551.44,
+        "category": "Stationery",
+        "stock": 14,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 942,
+        "name": "Product 942",
+        "price": 1684.17,
+        "category": "laptop",
+        "stock": 4,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 943,
+        "name": "Product 943",
+        "price": 1167.7,
+        "category": "Electronics",
+        "stock": 194,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 944,
+        "name": "Product 944",
+        "price": 79.3,
+        "category": "laptop",
+        "stock": 40,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 945,
+        "name": "Product 945",
+        "price": 1848.8,
+        "category": "laptop",
+        "stock": 166,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 946,
+        "name": "Product 946",
+        "price": 1091.16,
+        "category": "laptop",
+        "stock": 23,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 947,
+        "name": "Product 947",
+        "price": 156.15,
+        "category": "Home Appliances",
+        "stock": 122,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 948,
+        "name": "Product 948",
+        "price": 1543.13,
+        "category": "Electronics",
+        "stock": 163,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 949,
+        "name": "Product 949",
+        "price": 1006.4,
+        "category": "Clothing",
+        "stock": 171,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 950,
+        "name": "Product 950",
+        "price": 1869.06,
+        "category": "Clothing",
+        "stock": 148,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 951,
+        "name": "Product 951",
+        "price": 481.07,
+        "category": "Stationery",
+        "stock": 100,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 952,
+        "name": "Product 952",
+        "price": 1005.52,
+        "category": "Furniture",
+        "stock": 58,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 953,
+        "name": "Product 953",
+        "price": 1437.89,
+        "category": "Accessories",
+        "stock": 86,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 954,
+        "name": "Product 954",
+        "price": 594.64,
+        "category": "Clothing",
+        "stock": 46,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 955,
+        "name": "Product 955",
+        "price": 913.88,
+        "category": "Accessories",
+        "stock": 175,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 956,
+        "name": "Product 956",
+        "price": 1292.07,
+        "category": "Furniture",
+        "stock": 164,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 957,
+        "name": "Product 957",
+        "price": 1268.58,
+        "category": "Furniture",
+        "stock": 141,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 958,
+        "name": "Product 958",
+        "price": 1162.45,
+        "category": "laptop",
+        "stock": 41,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 959,
+        "name": "Product 959",
+        "price": 481.57,
+        "category": "laptop",
+        "stock": 130,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 960,
+        "name": "Product 960",
+        "price": 1455.5,
+        "category": "Electronics",
+        "stock": 53,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 961,
+        "name": "Product 961",
+        "price": 1258.96,
+        "category": "Accessories",
+        "stock": 46,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 962,
+        "name": "Product 962",
+        "price": 810.27,
+        "category": "Accessories",
+        "stock": 68,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 963,
+        "name": "Product 963",
+        "price": 1439.37,
+        "category": "Electronics",
+        "stock": 77,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 964,
+        "name": "Product 964",
+        "price": 445.28,
+        "category": "Furniture",
+        "stock": 113,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 965,
+        "name": "Product 965",
+        "price": 1788.6,
+        "category": "laptop",
+        "stock": 134,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 966,
+        "name": "Product 966",
+        "price": 1080.09,
+        "category": "Home Appliances",
+        "stock": 89,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 967,
+        "name": "Product 967",
+        "price": 1932.05,
+        "category": "Stationery",
+        "stock": 140,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 968,
+        "name": "Product 968",
+        "price": 833.37,
+        "category": "laptop",
+        "stock": 146,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 969,
+        "name": "Product 969",
+        "price": 1588.07,
+        "category": "Clothing",
+        "stock": 33,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 970,
+        "name": "Product 970",
+        "price": 999.06,
+        "category": "Home Appliances",
+        "stock": 186,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 971,
+        "name": "Product 971",
+        "price": 1431.25,
+        "category": "Clothing",
+        "stock": 155,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 972,
+        "name": "Product 972",
+        "price": 1068.6,
+        "category": "Electronics",
+        "stock": 54,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 973,
+        "name": "Product 973",
+        "price": 1659.39,
+        "category": "Clothing",
+        "stock": 167,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 974,
+        "name": "Product 974",
+        "price": 467.87,
+        "category": "Stationery",
+        "stock": 180,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 975,
+        "name": "Product 975",
+        "price": 1436.42,
+        "category": "Home Appliances",
+        "stock": 144,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 976,
+        "name": "Product 976",
+        "price": 704.23,
+        "category": "Electronics",
+        "stock": 148,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 977,
+        "name": "Product 977",
+        "price": 1022.42,
+        "category": "Clothing",
+        "stock": 177,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 978,
+        "name": "Product 978",
+        "price": 1032.29,
+        "category": "Clothing",
+        "stock": 86,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 979,
+        "name": "Product 979",
+        "price": 378.32,
+        "category": "Furniture",
+        "stock": 181,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 980,
+        "name": "Product 980",
+        "price": 138.64,
+        "category": "laptop",
+        "stock": 15,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 981,
+        "name": "Product 981",
+        "price": 1722.15,
+        "category": "Accessories",
+        "stock": 114,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 982,
+        "name": "Product 982",
+        "price": 453.54,
+        "category": "Electronics",
+        "stock": 157,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 983,
+        "name": "Product 983",
+        "price": 401.94,
+        "category": "Furniture",
+        "stock": 102,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 984,
+        "name": "Product 984",
+        "price": 166.71,
+        "category": "Home Appliances",
+        "stock": 29,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 985,
+        "name": "Product 985",
+        "price": 1031.58,
+        "category": "Furniture",
+        "stock": 151,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 986,
+        "name": "Product 986",
+        "price": 244.88,
+        "category": "Accessories",
+        "stock": 183,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 987,
+        "name": "Product 987",
+        "price": 1003.7,
+        "category": "Accessories",
+        "stock": 138,
+        "delivery_time": "2-3 days"
+    },
+    {
+        "id": 988,
+        "name": "Product 988",
+        "price": 1445.92,
+        "category": "laptop",
+        "stock": 116,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 989,
+        "name": "Product 989",
+        "price": 322.9,
+        "category": "Accessories",
+        "stock": 17,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 990,
+        "name": "Product 990",
+        "price": 425.02,
+        "category": "Clothing",
+        "stock": 58,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 991,
+        "name": "Product 991",
+        "price": 931.41,
+        "category": "Home Appliances",
+        "stock": 38,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 992,
+        "name": "Product 992",
+        "price": 1910.56,
+        "category": "Electronics",
+        "stock": 138,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 993,
+        "name": "Product 993",
+        "price": 1620.72,
+        "category": "Home Appliances",
+        "stock": 14,
+        "delivery_time": "Next-day"
+    },
+    {
+        "id": 994,
+        "name": "Product 994",
+        "price": 1904.23,
+        "category": "Furniture",
+        "stock": 65,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 995,
+        "name": "Product 995",
+        "price": 801.86,
+        "category": "Electronics",
+        "stock": 83,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 996,
+        "name": "Product 996",
+        "price": 298.48,
+        "category": "Accessories",
+        "stock": 18,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 997,
+        "name": "Product 997",
+        "price": 1195.5,
+        "category": "laptop",
+        "stock": 65,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 998,
+        "name": "Product 998",
+        "price": 966.85,
+        "category": "Home Appliances",
+        "stock": 69,
+        "delivery_time": "Same-day"
+    },
+    {
+        "id": 999,
+        "name": "Product 999",
+        "price": 1307.01,
+        "category": "Accessories",
+        "stock": 188,
+        "delivery_time": "1 week"
+    },
+    {
+        "id": 1000,
+        "name": "Product 1000",
+        "price": 439.92,
+        "category": "Stationery",
+        "stock": 187,
+        "delivery_time": "2-3 days"
+    }
+]
