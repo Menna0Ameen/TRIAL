@@ -28,7 +28,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline # Import 
 
 # Load the small conversational model
 #model_name = "microsoft/DialoGPT-small"
-model_name = "tiiuae/falcon-7b-instruct"
+model_name = "mistralai/Mistral-7B-Instruct-v0.1"
 #MODEL_NAME = "tiiuae/falcon-7b-instruct"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(model_name)
