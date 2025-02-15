@@ -78,6 +78,19 @@ def find_products(query):
     ]
 
     return filtered.head(5)
+    
+def classify_query(user_query):
+    """Classifies the query type based on keywords."""
+    user_query = user_query.lower()
+
+    if any(word in user_query for word in ["find", "show", "recommend", "under", "cheapest", "I need"]):
+        return "product_search"
+    elif any(word in user_query for word in ["stock", "available", "in stock", "in-stock"]):
+        return "availability_check"
+    elif any(word in user_query for word in ["deliver", "shipping", "arrive"]):
+        return "delivery_check"
+    else:
+        return "general"
 
 # ✅ Chat Function
 def chat_with_bot(user_query):
