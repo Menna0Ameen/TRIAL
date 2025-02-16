@@ -33,7 +33,7 @@ if not required_columns.issubset(df_catalog.columns):
     st.stop()
 
 # ✅ Streamlit App Title
-st.title("🛒 AI-Powered E-Commerce Chatbot (Free Version)")
+st.title("🛒 AI-Powered E-Commerce Chatbot (Free Version)") #######################
 st.write("✅ Loaded Product Catalog:")
 
 # ✅ Display catalog
